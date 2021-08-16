@@ -96,7 +96,7 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - Review of Literature
 - Car driving and Travelling
 - Music 
-- Badminton/Sports
+- Badminton
 
 
 ## Personal details
@@ -107,6 +107,8 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
     * Hindi - Full Professional Proficiency
     * Gujarati - Native or Billingual Proficiency
     * Sanskrit - Elementary Proficiency
+- Passport: Yes
+
 
 
 ## References
