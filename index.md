@@ -146,8 +146,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 ## Personal details
 
-- Passport: Yes
-- Date of birth: November 18, 1991
+- DOB: November 18, 1991
 - Languages: 
     * English - Full Professional Proficiency 
     * Hindi - Full Professional Proficiency
@@ -160,7 +159,6 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
     * Car driving and Travelling
     * Music 
     * Badminton
-
 
 ## References
 
