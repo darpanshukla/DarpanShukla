@@ -1,6 +1,13 @@
 # DARPAN SHUKLA
 
-Reesearch Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
+Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
+
+**Research fellow positions**
+===
+---
+|**Year**                 |Position, organization
+|2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS) - Nuclear Engineering IGCAR, Kalpakkam, Tamil Nadu
+|2015-16                  |Junior Research Fellow - Nuclear Engineering IGCAR, Kalpakkam, Tamil Nadu
 
 
 ### Markdown
@@ -36,7 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-|**Name**                 |Title                    |Checklist
-|1                    |Darapan
-|2                    |Devashree
-|3                    |Kalp
+
