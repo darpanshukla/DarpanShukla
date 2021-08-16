@@ -56,7 +56,28 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Subjects of modelling techniques
 - Subjects of electronics and communication engineering
 
+# Education
 
+|Year                      |	Degree/university/education board
+|--------                  |-----------------------------------------------
+|2015-21                   |	Doctor of Philosophy in Engineering Sciences (Nuclear Engineering) Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, Thesis title: Study of advanced methods for dynamic reliability analysis of digital I&C systems, Current status: THESIS SUBMITTED TO HBNI, MUMBAI, Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, Brief description: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
+|2013-15 |	Master of Technology in Nuclear Engineering (79.40%)
+Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
+Dissertation title: Reactor criticality computations in neutron transport theory using Monte Carlo methods (Link to ResearchGate)
+
+Brief description:
+M.Tech. degree involves courses of nuclear reactor theory, radiation physics, heat and mass transfer, reliability engineering etc. In M.Tech. dissertation work, I have learned using of open source neutron transport code such as OpenMC and Dragon. I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods.
+
+|2009-13	| Bachelor of Engineering in Electronics and Communication Engineering (76.00%)
+Government Engineering College, Rajkot, affiliated to 
+Gujarat Technological University, Ahmedabad, Gujarat, India
+
+|2008-09	|Higher Secondary Certificate (81.80%)
+Shri G. K. Dholakiya High School, Rajkot affiliated to
+Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India
+|2007	|Secondary School Certificate (82.62%)
+Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
+GSHSEB, Gujarat, India
 
 
 ## Fellowships, grants and awards
