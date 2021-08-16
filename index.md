@@ -4,8 +4,7 @@ Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www
 
 **Research fellow positions**
 
-|-------                  |-----------------------------------------------
-|**Year**                 |**Position, organization** 
+|Year                     |Position, organization
 |-------                  |-----------------------------------------------
 |2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS)           
 |2015-16                  |Junior Research Fellow                             
