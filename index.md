@@ -1,6 +1,6 @@
-# DARPAN SHUKLA
+# DARPAN KRISHNAKUMAR SHUKLA
 
-Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu  
+DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu  
 
 **Research fellow positions**
 
@@ -8,28 +8,6 @@ Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www
 |-------                  |-----------------------------------------------
 |2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS)           
 |2015-16                  |Junior Research Fellow                             
-
-
-## Area of research experience and expertise
-
-Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-homogeneous modeling for maintenance modeling, Probabilistic risk assessment, Digital I & C system reliability, Safety system reliability, Model translations, Modeling complexity, Computational complexity
-
-
-**Research interest and aptitude**
-
-- Developing Monte Carlo simulation procedures
-- Developing object-oriented and smart component modelling of realistic systems
-- Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance modelling
-- My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
-
-
-**Teaching interests**
-
-- Subjects of probabilistic analysis and inference  - simulations
-- Subjects of numerical techniques
-- Subjects of modelling techniques
-- Subjects of electronics and communication engineering
-
 
 ## Skills
 
@@ -42,13 +20,46 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - Modeling tools: Macchiato, Genie, Reliability Workbench
 - Neutron transport codes: OpenMC
 
+## Experience
+**Area of research experience and expertise**
 
-## Python package developed by me
+- Nuclear safety
+   * Probabilistic risk assessment
+   * Digital I & C system reliability
+   * Safety system reliability
+- System modeling 
+   * Probabilistic dynamic modeling
+   * Object-oriented system modeling and analysis
+   * Non-homogeneous Markov process modeling 
+   * Maintenance modeling
+   * Model translations
+- Analysis
+   * Monte Carlo Simulations
+   * Modeling complexity
+   * Computational complexity
+- Python package developed by me
+   * SCM (Smart component method)
 
-- SCM (Smart component method)
+
+## Aptitude 
+**Research interest and aptitude**
+
+- Developing Monte Carlo simulation procedures
+- Developing object-oriented and smart component modelling of realistic systems
+- Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance modelling
+- My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
+
+**Teaching interests**
+
+- Subjects of probabilistic analysis and inference  - simulations
+- Subjects of numerical techniques
+- Subjects of modelling techniques
+- Subjects of electronics and communication engineering
 
 
-## Scholarship, grants and awards
+
+
+## Fellowships, scholarships, grants and awards
 
 - European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
 - CSIR international travel grant, New Delhi, PSA 2019
@@ -66,7 +77,7 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
 
 
-## Research collaborators and technical discussion
+### Research collaborators and technical discussion
 
 |Collabrator                                                        |Purpose
 |----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
@@ -75,8 +86,6 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 |Prof. Curtis Smith, Mr. Martin B. Sattison, Dr. Diego Mandelli, Idaho National Laboratories, USA   |Comparison between smart component method (IGCAR) and RAVEN (INL) for tested system reliability analysis
 |Prof. Carol Smidts, Ohio State University, USA                      |Discussion on dynamic reliability analysis, smart component method development
 |Prof. Francesco Di Maio, Politecnico di Milano, ITALY               |Discussion on dynamic reliability analysis, decision support system
-
-
 
 
 ## Technical visits
