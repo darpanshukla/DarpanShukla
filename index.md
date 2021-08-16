@@ -93,6 +93,13 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 
 ## Personal details
 
+- Passport: Yes
+- Date of birth: November 18, 1991
+- Languages: 
+    * English - Full Professional Proficiency 
+    * Hindi - Full Professional Proficiency
+    * Gujarati - Native or Billingual Proficiency
+    * Sanskrit - Elementary Proficiency
 - Hobbies:
     * Reading Spiritual Books
     * Reviewing History of Mathematics - specifically Probability
@@ -100,14 +107,6 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
     * Car driving and Travelling
     * Music 
     * Badminton
-- Date of birth: November 18, 1991
-- Languages: 
-    * English - Full Professional Proficiency 
-    * Hindi - Full Professional Proficiency
-    * Gujarati - Native or Billingual Proficiency
-    * Sanskrit - Elementary Proficiency
-- Passport: Yes
-
 
 
 ## References
