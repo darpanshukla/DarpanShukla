@@ -66,6 +66,16 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
 
 
+## Research collaborators and technical discussion
+
+|                                                                   |
+|----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
+|Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques,           
+|.                                                                  |and Markov regenerative process modelling, discussion on decision support system
+
+
+
+
 ## Technical visits
 - University of Nottingham, Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020
 - Indian Institute of Technology Delhi, Delhi, INDIA as a part of a collaborative project during November 12 – December 02, 2018
