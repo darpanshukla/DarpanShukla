@@ -65,6 +65,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
       * Current status: THESIS SUBMITTED TO HBNI, MUMBAI, 
       * Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
       * **Brief description**: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
+
 ## 2013-15 M.Tech.
 - M.Tech. in Nuclear Engineering (79.40%)
   * Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
@@ -87,6 +88,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
   * GSHSEB, Gujarat, India
 
 ## Fellowships, grants and awards
+
 - In Ph.D.:
   * European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
   * CSIR international travel grant, New Delhi, PSA 2019
