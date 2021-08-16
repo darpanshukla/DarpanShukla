@@ -59,17 +59,19 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 
 
-## Fellowships, scholarships, grants and awards
+## Fellowships, grants and awards
+- In Ph.D.:
+* European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
+* CSIR international travel grant, New Delhi, PSA 2019
+* Grant, American Nuclear Society (ANS), PSA 2019
+* DAE’s Graduate Fellowship Scheme - Ph.D. (DGFS PhD) by Board of Research in Nuclear Sciences, Mumbai, INDIA, 2016 to 2021
+* Junior Research Fellowship by IGCAR, Kalpakkam, INDIA, 2015 to 2016
 
-- European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
-- CSIR international travel grant, New Delhi, PSA 2019
-- Grant, American Nuclear Society (ANS), PSA 2019
-- DAE’s Graduate Fellowship Scheme - Ph.D. (DGFS PhD) by Board of Research in Nuclear Sciences, Mumbai, INDIA, 2016 to 2021
-- Junior Research Fellowship by IGCAR, Kalpakkam, INDIA, 2015 to 2016
-- Fully funded (travel, registration and accommodation) for participating in PHYTRA 2014 provided by Partnership for Nuclear Science (PNS), Department of State (DoS), USA, 2014
-- Fully funded for Nuclear Security Training Series by PNS, DoS, USA, 2014
-- Fully funded for participating in Institute for Nuclear Materials and Management 2014 by PNS, DoS, USA, 2014
-- Graduate Aptitude Test for Engineer (GATE) fellowship, 2014 to 2015
+- In M.Tech.
+* Fully funded (travel, registration and accommodation) for participating in PHYTRA 2014 provided by Partnership for Nuclear Science (PNS), Department of State (DoS), USA, 2014
+* Fully funded for Nuclear Security Training Series by PNS, DoS, USA, 2014
+* Fully funded for participating in Institute for Nuclear Materials and Management 2014 by PNS, DoS, USA, 2014
+* Graduate Aptitude Test for Engineer (GATE) fellowship, 2014 to 2015
 
 
 ## Technical presentation beyond conference
