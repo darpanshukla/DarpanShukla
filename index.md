@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# DARPAN SHUKLA
 
-You can use the [editor on GitHub](https://github.com/darpanshukla/darpan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Reeseearch Scolar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
