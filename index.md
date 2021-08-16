@@ -3,8 +3,8 @@
 Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
 
 **Research fellow positions**
-===
----
+***
+
 |**Year**                 |Position, organization
 |2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS) - Nuclear Engineering IGCAR, Kalpakkam, Tamil Nadu
 |2015-16                  |Junior Research Fellow - Nuclear Engineering IGCAR, Kalpakkam, Tamil Nadu
