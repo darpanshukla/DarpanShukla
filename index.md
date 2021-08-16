@@ -1,6 +1,6 @@
 # DARPAN SHUKLA
 
-Reeseearch Scolar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
+Reesearch Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in)
 
 
 ### Markdown
