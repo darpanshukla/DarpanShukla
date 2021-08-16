@@ -71,8 +71,7 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 |Collabrator                                                        |Purpose
 |----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
 |Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques, and Markov regenerative process modelling, discussion on decision support system
-|Prof. John D. Andrews, 
-Dr. Mark James Wootton, University of Nottingham, Nottingham, UK   |Use of Macchiato Petri net (PN) modelling software for reliability modelling of fast reactor shutdown system, Developed efficient Dijkstra’s semaphore based PN voting model, Model translation of smart component model to PN
+|Prof. John D. Andrews, Dr. Mark James Wootton, University of Nottingham, Nottingham, UK   |Use of Macchiato Petri net (PN) modelling software for reliability modelling of fast reactor shutdown system, Developed efficient Dijkstra’s semaphore based PN voting model, Model translation of smart component model to PN
 |Prof. Curtis Smith, Mr. Martin B. Sattison, Dr. Diego Mandelli, Idaho National Laboratories, USA   |Comparison between smart component method (IGCAR) and RAVEN (INL) for tested system reliability analysis
 |Prof. Carol Smidts, Ohio State University, USA                      |Discussion on dynamic reliability analysis, smart component method development
 |Prof. Francesco Di Maio, Politecnico di Milano, ITALY               |Discussion on dynamic reliability analysis, decision support system
