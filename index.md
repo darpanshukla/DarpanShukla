@@ -135,10 +135,10 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 ## References
 
-- Prof. A. John Arul, [arul@igcar.gov.in](arul@igcar.gov.in) (Ph.D. guide)
-- Prof. K. B. K. Mayya, [kbkmayya@gmail.com](kbkmayya@gmail.com) (M.Tech. guide)
-- Prof. Ravi Prasad, [raviprasad49@gmail.com](raviprasad49@gmail.com) (M.Tech. professor)
-- Prof. C. H. Vithalani, [email ID](chvithalani@gecrajkot.ac.in) (B.E. professor)
+- Prof. A. John Arul (Ph.D. guide)
+- Prof. K. B. K. Mayya (M.Tech. guide)
+- Prof. Ravi Prasad (M.Tech. professor)
+- Prof. C. H. Vithalani (B.E. professor)
 
 
 ## Connect with me at 
