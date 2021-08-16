@@ -59,8 +59,13 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 - 2015-21                   
   *	Doctor of Philosophy in Engineering Sciences (Nuclear Engineering) 
-      -- Homi Bhabha National Institute (HBNI), Mumbai, India, 
-Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, Thesis title: Study of advanced methods for dynamic reliability analysis of digital I&C systems, Current status: THESIS SUBMITTED TO HBNI, MUMBAI, Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, Brief description: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
+      ** Homi Bhabha National Institute (HBNI), Mumbai, India, 
+      ** Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
+      ** Thesis title: **Study of advanced methods for dynamic reliability analysis of digital I&C systems**, 
+      ** Current status: THESIS SUBMITTED TO HBNI, MUMBAI, 
+      ** Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
+      ** **Brief description**: 
+      The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
 |2013-15 |	Master of Technology in Nuclear Engineering (79.40%)
 Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
 Dissertation title: Reactor criticality computations in neutron transport theory using Monte Carlo methods (Link to ResearchGate)
