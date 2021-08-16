@@ -103,22 +103,23 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 
 - Date of birth: November 18, 1991
 - Languages: 
-    English - Full Professional Proficiency 
-    Hindi - Full Professional Proficiency
-    Gujarati - Native or Billingual Proficiency
-    Sanskrit - Elementary Proficiency
+    * English - Full Professional Proficiency 
+    * Hindi - Full Professional Proficiency
+    * Gujarati - Native or Billingual Proficiency
+    * Sanskrit - Elementary Proficiency
 
 
 ## References
 
 - Prof. A. John Arul, [arul@igcar.gov.in](arul@igcar.gov.in) (Ph.D. guide)
-- Prof. K. B. K. Mayya, kbkmayya@gmail.com (M.Tech. guide)
-- Prof. Ravi Prasad, raviprasad49@gmail.com (M.Tech. professor)
-- Prof. C. H. Vithalani, chvithalani@gecrajkot.ac.in (B.E. professor)
+- Prof. K. B. K. Mayya, [kbkmayya@gmail.com](kbkmayya@gmail.com) (M.Tech. guide)
+- Prof. Ravi Prasad, [raviprasad49@gmail.com](raviprasad49@gmail.com) (M.Tech. professor)
+- Prof. C. H. Vithalani, [chvithalani@gecrajkot.ac.in](chvithalani@gecrajkot.ac.in) (B.E. professor)
 
 
 ## Connect with me at 
 
+![Mail-icon](https://user-images.githubusercontent.com/8653914/129532597-f581faf2-4bab-4436-8336-ed1ceefd9aad.png)
 [darpanshukla91@gmail.com](darpanshukla91@gmail.com)
 
 ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
