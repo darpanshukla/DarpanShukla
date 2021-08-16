@@ -15,7 +15,7 @@ Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www
 Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-homogeneous modeling for maintenance modeling, Probabilistic risk assessment, Digital I & C system reliability, Safety system reliability, Model translations, Modeling complexity, Computational complexity
 
 
-## Research interest and aptitude
+**Research interest and aptitude**
 
 - Developing Monte Carlo simulation procedures
 - Developing object-oriented and smart component modelling of realistic systems
@@ -23,7 +23,7 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
 
 
-## Teaching interests
+**Teaching interests**
 
 - Subjects of probabilistic analysis and inference  - simulations
 - Subjects of numerical techniques
@@ -91,18 +91,15 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 - JRF Representative Committee - Mess (JRC– Mess): mess representative during July 2017- July 2021 at JRF Enclave hostel of IGCAR.
 
 
-## Hobbies/interests
-
-- Reading Spiritual Books
-- Reviewing History of Mathematics - specifically Probability
-- Review of Literature
-- Car driving and Travelling
-- Music 
-- Badminton
-
-
 ## Personal details
 
+- Hobbies:
+    * Reading Spiritual Books
+    * Reviewing History of Mathematics - specifically Probability
+    * Review of Literature
+    * Car driving and Travelling
+    * Music 
+    * Badminton
 - Date of birth: November 18, 1991
 - Languages: 
     * English - Full Professional Proficiency 
