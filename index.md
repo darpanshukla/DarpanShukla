@@ -70,8 +70,8 @@ Nuclear safety, Monte Carlo Simulations, Probabilistic dynamic modeling, Non-hom
 
 |Collabrator                                                        |Purpose
 |----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
-|Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques,           
-|                                                                   |and Markov regenerative process modelling, discussion on decision support system
+|Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques, and Markov regenerative process modelling, discussion on decision support system
+|Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques, and Markov regenerative process modelling, discussion on decision support system
 
 
 
