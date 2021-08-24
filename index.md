@@ -56,6 +56,7 @@ My skills are:
 
 Click here on the link for detailed list of publication.
 
+![orcidlogi](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)
 [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 
 ![RGimage](https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png)
