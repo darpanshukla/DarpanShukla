@@ -67,7 +67,7 @@ Click below on any link for the detailed list of publication.
 
 ***
 
-# Interests
+# Interests and aptitude
 
 **Research interests and aptitude**
 
