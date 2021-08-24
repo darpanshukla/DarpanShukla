@@ -7,6 +7,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - B.E. in E.C.E. (2013)
 - M.Tech in Nuclear Engineering (2015)
 - Ph.D. in Engineering Sciences (2021)
+
 ***
 
 # Experience
@@ -80,6 +81,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Subjects of numerical techniques
 - Subjects of modelling techniques
 - Subjects of electronics and communication engineering
+
 ***
 
 # Detailed Educational Qualification
@@ -113,6 +115,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Secondary School Certificate (82.62%)
   * Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
   * GSHSEB, Gujarat, India
+
 ***
 
 # Awards
@@ -130,6 +133,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
   * Fully funded for Nuclear Security Training Series by PNS, DoS, USA, 2014
   * Fully funded for participating in Institute for Nuclear Materials and Management 2014 by PNS, DoS, USA, 2014
   * Graduate Aptitude Test for Engineer (GATE) fellowship, 2014 to 2015
+
 ***
 
 # Research activities
@@ -182,6 +186,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
     * Car driving and Travelling
     * Music 
     * Badminton
+
 ***
 
 # Connect with me at 
