@@ -10,7 +10,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 # Experience
 
-## Research fellow positions
+**Research fellow positions**
 
 |Year                     |Position, organization
 |-------                  |-----------------------------------------------
@@ -36,13 +36,13 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Python package developed by me
    * SCM (Smart component method)
 
-## Link for my publications
+## Websites for my publications
 
 ![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
 [ORCID profile](https://orcid.org/0000-0001-8208-3206)
 
 ![RGimage](https://c5.rgstatic.net/m/419438641133902/images/icons/svgicons/new-index-logo.svg)
-[Darpan Shukla's Researchgate profile]
+[Darpan Shukla's Researchgate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
 
 ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
@@ -84,7 +84,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 # Detailed Educational Qualification
 
-## 2015-21 Ph.D.                  
+**2015-21 DGFS Ph.D.**
   -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
       * Homi Bhabha National Institute (HBNI), Mumbai, India, 
       * Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
@@ -93,28 +93,29 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
       * Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
       * **Brief description**: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
 
-## 2013-15 M.Tech.
+**2013-15 M.Tech.**
 - M.Tech. in Nuclear Engineering (79.40%)
   * Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
   * Dissertation title: **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link to ResearchGate](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method)
   * **Brief description:** M.Tech. degree involves courses of nuclear reactor theory, radiation physics, heat and mass transfer, reliability engineering etc. In M.Tech. dissertation work, I have learned using of open source neutron transport code such as OpenMC and Dragon. I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods.
 
-## 2009-13 B.E.
+**2009-13 B.E.**
 - B.E. in Electronics and Communication Engineering (76.00%)
   * Government Engineering College, Rajkot, affiliated to 
   * Gujarat Technological University, Ahmedabad, Gujarat, India
 
-## 2008-09	
+**2008-09**
 - Higher Secondary Certificate (81.80%)
   * Shri G. K. Dholakiya High School, Rajkot affiliated to
   * Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India
 
-## 2007	
+**2007**
 - Secondary School Certificate (82.62%)
   * Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
   * GSHSEB, Gujarat, India
 
-## Fellowships, grants and awards
+# Awards
+**Fellowships, Scholarship, grants and awards**
 
 - In Ph.D.:
   * European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
@@ -129,13 +130,12 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
   * Fully funded for participating in Institute for Nuclear Materials and Management 2014 by PNS, DoS, USA, 2014
   * Graduate Aptitude Test for Engineer (GATE) fellowship, 2014 to 2015
 
-
-## Technical presentation beyond conference
+# Research activities
+**Technical presentation beyond conference**
 
 - “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
 
-
-### Research collaborators and technical discussion
+**Research collaborators and technical discussion**
 
 |Collabrator                                                        |Purpose
 |----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
@@ -146,7 +146,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 |Prof. Francesco Di Maio, Politecnico di Milano, ITALY               |Discussion on dynamic reliability analysis, decision support system
 
 
-## Technical visits
+**Technical visits**
 - University of Nottingham, Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020
 - Indian Institute of Technology Delhi, Delhi, INDIA as a part of a collaborative project during November 12 – December 02, 2018
 
@@ -158,12 +158,6 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Nuclear Security Training Series 2014 in USA, Texas A&M University, College Station, Argonne National Laboratory, Albuquerque, Oak Ridge National Laboratories, - - Knoxville, during June 10 – July 11, 2014
 - 55th Annual Meeting of the Institute of Nuclear Materials Management (INMM) 2014, Atlanta, USA, during July 12 – 16, 2014
 - 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
-
-
-## Professional memberships
-
-- American Nuclear Society
-- Indian Nuclear Society
 
 
 ## Activities
@@ -186,13 +180,6 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
     * Car driving and Travelling
     * Music 
     * Badminton
-
-## References
-
-- Prof. A. John Arul (Ph.D. guide)
-- Prof. K. B. K. Mayya (M.Tech. guide)
-- Prof. Ravi Prasad (M.Tech. professor)
-- Prof. C. H. Vithalani (B.E. professor)
 
 
 ## Connect with me at 
