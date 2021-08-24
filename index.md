@@ -2,6 +2,8 @@
 
 **DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
 
+***
+
 # Qualifications
 
 - B.E. in E.C.E. (2013)
@@ -56,10 +58,11 @@ My skills are:
 
 Click below on any link for the detailed list of publication.
 
-- [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
+- <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
+[My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 - <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
 [My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
-- ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
+- <img src="https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png" width = "25">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
 ***
