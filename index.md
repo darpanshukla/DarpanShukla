@@ -10,15 +10,9 @@
 ***
 
 # Experience
+                         
 
-**Research fellow positions**
-
-|Year                     |Position, organization
-|-------                  |-----------------------------------------------
-|2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS)           
-|2015-16                  |Junior Research Fellow                             
-
-**Area of research experience**
+##Area of research experience
 
 - Nuclear safety
    * Probabilistic risk assessment
@@ -37,18 +31,7 @@
 - Python package developed by me
    * SCM (Smart component method)
 
-**Websites for my publications**
-
-![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
-[ORCID profile](https://orcid.org/0000-0001-8208-3206)
-
-![RGimage](https://c5.rgstatic.net/m/419438641133902/images/icons/svgicons/new-index-logo.svg)
-[Darpan Shukla's Researchgate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
-
-![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
-[linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
-
-**Skills**
+##Skills
 
 -	Monte Carlo simulations
 -	Smart component modelling
@@ -66,15 +49,29 @@
 -	Documentation
 -	Literature review
 
-**Research interest and aptitude**
+
+##Websites for my publications
+
+![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
+[ORCID profile](https://orcid.org/0000-0001-8208-3206)
+
+![RGimage](https://c5.rgstatic.net/m/419438641133902/images/icons/svgicons/new-index-logo.svg)
+[Darpan Shukla's Researchgate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
+
+![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
+[linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
+
+***
+
+#Interests
+##Research interest and aptitude
 
 -	Developing Monte Carlo simulation procedures
 -	Developing smart component modelling of realistic systems
 -	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance
 -	My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
 
-
-**Teaching interests**
+##Teaching interests
 
 - Subjects of probabilistic analysis and inference  - simulations
 - Subjects of numerical techniques
