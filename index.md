@@ -12,8 +12,7 @@
 
 # Experience
                          
-
-##Area of research experience
+My area of research experience are:
 
 - Nuclear safety
    * Probabilistic risk assessment
@@ -32,47 +31,50 @@
 - Python package developed by me
    * SCM (Smart component method)
 
-##Skills
+# Skills
+
+My skills are:
 
 -	Monte Carlo simulations
 -	Smart component modelling
 -	Modeling techniques: 
-  *	Petri nets
-  *	Markov modeling 
-  *	Fault tree
-  *	Event tree
-  *	Bayesian network
+       *	Petri nets
+       *	Markov modeling 
+       *	Fault tree
+       *	Event tree
+       *	Bayesian network
 -	Modeling tools: 
-  * Macchiato PN
-  * Genie
-  * RiskSpectrum
-  * thru Python programming
+       * Macchiato PN
+       * Genie
+       * RiskSpectrum
+       * thru Python programming
 -	Documentation
 -	Literature review
 
 
-##Websites for my publications
+# Websites for my publications
 
-![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
-[ORCID profile](https://orcid.org/0000-0001-8208-3206)
+Click here
+[My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 
 ![RGimage](https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png)
-[Darpan Shukla's Researchgate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
+[My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
 
 ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
 ***
 
-#Interests
-##Research interest and aptitude
+# Interests
+
+**Research interest and aptitude**
 
 -	Developing Monte Carlo simulation procedures
 -	Developing smart component modelling of realistic systems
 -	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance
 -	My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
 
-##Teaching interests
+**Teaching interests**
 
 - Subjects of probabilistic analysis and inference  - simulations
 - Subjects of numerical techniques
@@ -116,6 +118,7 @@
 ***
 
 # Awards
+
 **Fellowships, Scholarship, grants and awards**
 
 - In Ph.D.:
@@ -133,7 +136,7 @@
 
 ***
 
-# Research activities
+# Technical activities
 ## Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
 - 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
@@ -163,7 +166,9 @@
 
 ***
 
-**Activities**
+# Pesonal details
+
+**Extracarriculum activities**
 
 - JRF Representative Committee - Mess (JRC– Mess): mess representative during July 2017- July 2021 at JRF Enclave hostel of IGCAR.
 
