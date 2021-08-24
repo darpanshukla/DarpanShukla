@@ -7,7 +7,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - B.E. in E.C.E. (2013)
 - M.Tech in Nuclear Engineering (2015)
 - Ph.D. in Engineering Sciences (2021)
-====================
+***
 
 # Experience
 
@@ -80,7 +80,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Subjects of numerical techniques
 - Subjects of modelling techniques
 - Subjects of electronics and communication engineering
-=====================
+***
 
 # Detailed Educational Qualification
 
@@ -113,7 +113,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Secondary School Certificate (82.62%)
   * Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
   * GSHSEB, Gujarat, India
-====================
+***
 
 # Awards
 **Fellowships, Scholarship, grants and awards**
@@ -130,9 +130,17 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
   * Fully funded for Nuclear Security Training Series by PNS, DoS, USA, 2014
   * Fully funded for participating in Institute for Nuclear Materials and Management 2014 by PNS, DoS, USA, 2014
   * Graduate Aptitude Test for Engineer (GATE) fellowship, 2014 to 2015
-=====================
+***
 
 # Research activities
+## Conferences and workshops participation
+- American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
+- 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
+- Indian Nuclear Society Probabilistic Safety Assessment workshop, Mumbai, August, 2016
+- Nuclear Security Training Series 2014 in USA, Texas A&M University, College Station, Argonne National Laboratory, Albuquerque, Oak Ridge National Laboratories, - - Knoxville, during June 10 – July 11, 2014
+- 55th Annual Meeting of the Institute of Nuclear Materials Management (INMM) 2014, Atlanta, USA, during July 12 – 16, 2014
+- 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
+
 **Technical presentation beyond conference**
 
 - “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
@@ -151,18 +159,8 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 **Technical visits**
 - University of Nottingham, Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020
 - Indian Institute of Technology Delhi, Delhi, INDIA as a part of a collaborative project during November 12 – December 02, 2018
-===========================
 
-
-# Conferences and workshops participation
-- American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
-- 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
-- Indian Nuclear Society Probabilistic Safety Assessment workshop, Mumbai, August, 2016
-- Nuclear Security Training Series 2014 in USA, Texas A&M University, College Station, Argonne National Laboratory, Albuquerque, Oak Ridge National Laboratories, - - Knoxville, during June 10 – July 11, 2014
-- 55th Annual Meeting of the Institute of Nuclear Materials Management (INMM) 2014, Atlanta, USA, during July 12 – 16, 2014
-- 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
-==================================
-
+***
 
 **Activities**
 
@@ -184,8 +182,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
     * Car driving and Travelling
     * Music 
     * Badminton
-======================
-
+***
 
 # Connect with me at 
 
