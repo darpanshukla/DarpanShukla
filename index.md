@@ -10,7 +10,7 @@
 
 ***
 
-# Experience
+# Experience, skills & publications
                          
 My area of research experience are:
 
@@ -31,7 +31,7 @@ My area of research experience are:
 - Python package developed by me
    * SCM (Smart component method)
 
-# Skills
+## Skills
 
 My skills are:
 
@@ -52,9 +52,10 @@ My skills are:
 -	Literature review
 
 
-# Websites for my publications
+## Websites for my publications
 
-Click here
+Click here on the link for detailed list of publication.
+
 [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 
 ![RGimage](https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png)
@@ -137,6 +138,9 @@ Click here
 ***
 
 # Technical activities
+
+I like to participate in conferences and discuss with scientists working in the field. 
+
 ## Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
 - 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
