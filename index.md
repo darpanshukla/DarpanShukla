@@ -7,7 +7,7 @@
 # Qualifications
 
 - B.E. in E.C.E. (2013)
-- M.Tech in Nuclear Engineering (2015)
+- M.Tech. in Nuclear Engineering (2015)
 - Ph.D. in Engineering Sciences (2021)
 
 ***
@@ -56,7 +56,7 @@ My skills are:
 
 ## Websites for my publications
 
-Click below on any link for the detailed list of publication.
+Click below on any link for the detailed list of publications.
 
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
 [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
@@ -67,9 +67,7 @@ Click below on any link for the detailed list of publication.
 
 ***
 
-# Interests and aptitude
-
-**Research interests and aptitude**
+# Research interests and aptitude
 
 -	Developing Monte Carlo simulation procedures
 -	Developing smart component modelling of realistic systems
