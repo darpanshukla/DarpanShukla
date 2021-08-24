@@ -56,7 +56,7 @@
 ![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
 [ORCID profile](https://orcid.org/0000-0001-8208-3206)
 
-![RGimage](https://c5.rgstatic.net/m/419438641133902/images/icons/svgicons/new-index-logo.svg)
+![RGimage](https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png)
 [Darpan Shukla's Researchgate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
 
 ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
