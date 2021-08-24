@@ -2,15 +2,22 @@
 
 DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu  
 
-# Experience and interests
-**Research fellow positions**
+# Qualification
+
+- B.E. in E.C.E. (2013)
+- M.Tech in Nuclear Engineering (2015)
+- Ph.D. in Engineering Sciences (2021)
+
+# Experience
+
+## Research fellow positions
 
 |Year                     |Position, organization
 |-------                  |-----------------------------------------------
 |2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS)           
 |2015-16                  |Junior Research Fellow                             
 
-**Area of research experience and expertise**
+## Area of research experience
 
 - Nuclear safety
    * Probabilistic risk assessment
@@ -29,6 +36,10 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Python package developed by me
    * SCM (Smart component method)
 
+## Link for my publications
+
+
+
 ## Skills
 
 - Probabilistic Safety/Risk Assessment
@@ -43,10 +54,11 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 ## Aptitude 
 **Research interest and aptitude**
 
-- Developing Monte Carlo simulation procedures
-- Developing object-oriented and smart component modelling of realistic systems
-- Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance modelling
-- My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
+-	Developing Monte Carlo simulation procedures
+-	Developing smart component modelling of realistic systems
+-	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance
+-	My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
+
 
 **Teaching interests**
 
@@ -55,7 +67,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Subjects of modelling techniques
 - Subjects of electronics and communication engineering
 
-# Education description
+# Detailed Educational Qualification
 
 ## 2015-21 Ph.D.                  
   -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
