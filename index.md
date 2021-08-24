@@ -42,14 +42,22 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 
 ## Skills
 
-- Probabilistic Safety/Risk Assessment
-- Reliability modeling and analysis
-- Time-dependent maintenance modeling
-- Smart component modelling
-- Python programming
-- Modeling techniques: Petri nets, Bayesian network, Markov modeling, fault tree, event tree
-- Modeling tools: Macchiato, Genie, Reliability Workbench
-- Neutron transport codes: OpenMC
+-	Monte Carlo simulations
+-	Smart component modelling
+-	Modeling techniques: 
+  *	Petri nets
+  *	Markov modeling 
+  *	Fault tree
+  *	Event tree
+  *	Bayesian network
+-	Modeling tools: 
+  * Macchiato PN
+  * Genie
+  * RiskSpectrum
+  * thru Python programming
+-	Documentation
+-	Literature review
+
 
 ## Aptitude 
 **Research interest and aptitude**
