@@ -2,7 +2,7 @@
 
 DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu  
 
-# Qualification
+# Qualifications
 
 - B.E. in E.C.E. (2013)
 - M.Tech in Nuclear Engineering (2015)
@@ -17,7 +17,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 |2016-21                  |DAE’s Graduate Fellowship Scheme (DGFS)           
 |2015-16                  |Junior Research Fellow                             
 
-## Area of research experience
+**Area of research experience**
 
 - Nuclear safety
    * Probabilistic risk assessment
@@ -36,7 +36,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Python package developed by me
    * SCM (Smart component method)
 
-## Websites for my publications
+**Websites for my publications**
 
 ![orcidimage](https://orcid.org/static/release-2.2.12_patch_public_page_translations/img/orcid-logo.svg)
 [ORCID profile](https://orcid.org/0000-0001-8208-3206)
@@ -47,7 +47,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
-## Skills
+**Skills**
 
 -	Monte Carlo simulations
 -	Smart component modelling
@@ -65,8 +65,6 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 -	Documentation
 -	Literature review
 
-
-## Aptitude 
 **Research interest and aptitude**
 
 -	Developing Monte Carlo simulation procedures
@@ -151,7 +149,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - Indian Institute of Technology Delhi, Delhi, INDIA as a part of a collaborative project during November 12 – December 02, 2018
 
 
-## Conferences and workshops participation
+# Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
 - 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
 - Indian Nuclear Society Probabilistic Safety Assessment workshop, Mumbai, August, 2016
@@ -160,12 +158,12 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
 - 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
 
 
-## Activities
+**Activities**
 
 - JRF Representative Committee - Mess (JRC– Mess): mess representative during July 2017- July 2021 at JRF Enclave hostel of IGCAR.
 
 
-## Personal details
+**Personal details**
 
 - DOB: November 18, 1991
 - Languages: 
@@ -182,7 +180,7 @@ DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http:
     * Badminton
 
 
-## Connect with me at 
+# Connect with me at 
 
 ![Mail-icon](https://user-images.githubusercontent.com/8653914/129532597-f581faf2-4bab-4436-8336-ed1ceefd9aad.png)
 [darpanshukla91@gmail.com](darpanshukla91@gmail.com)
