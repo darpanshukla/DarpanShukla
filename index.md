@@ -54,15 +54,11 @@ My skills are:
 
 ## Websites for my publications
 
-Click here on the link for detailed list of publication.
+Click here on the link for the detailed list of publication.
 
-![orcidlogi](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)
-[My ORCID Account](https://orcid.org/0000-0001-8208-3206)
-
-![RGimage](https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png)
-[My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
-
-![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
+- [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
+- [My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
+- ![linkedin-icon](https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png)
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
 ***
