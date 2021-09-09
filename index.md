@@ -12,18 +12,20 @@
 
 ***
 
-# STEM, Experience, skills & publications
+# STEM 
 
+I know the following STEM (Science, Technology, Engineering and Mathematics):
 
-
-I know STEM (Science Technology Engineering Mathematics):
 
 |----|--------------------------------------- 
-| S  | Electronics, Nuclear and Risk Sciences
-| T  | Digital I&C, Nuclear reactor technology, Reliability 
-| E  | Applications of above technologies
-| M  | Engineering mathematics, Applied probability, Graph theoretic, Simulation
+| S  | Engineering Sciences in particular Electronics, Nuclear and Risk Sciences
+| T  | Formal introduction to the technologies to Digital and analog electronics, Nuclear reactor technology, Safety and protection technologies
+| E  | ECE, Nuclear and Reliability Engineering
+| M  | Engineering mathematics, Computational neutron transport, Simulation, Probabilistic risk assessment, Applied probability and graph theory. 
 
+***
+
+# Experience, skills
 
 - Nuclear safety
    * Probabilistic risk assessment
@@ -42,7 +44,6 @@ I know STEM (Science Technology Engineering Mathematics):
 - Python package developed by me
    * SCM (Smart component method)
 
-## Skills
 
 My skills are:
 
@@ -62,7 +63,7 @@ My skills are:
 -	Documentation
 -	Literature review
 
-
+# publications
 ## Websites for my publications
 
 Click below on any link for the detailed list of publications.
