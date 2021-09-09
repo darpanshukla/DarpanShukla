@@ -12,14 +12,14 @@
 
 ***
 
-# Experience, skills & publications
+# STEM, Experience, skills & publications
 
 
 
-Experience in STEM (Science Technology Engineering Mathematics):
+I know STEM (Science Technology Engineering Mathematics):
 
-| S  | Electronics, Nuclear and Risk Sciences
 |----|--------------------------------------- 
+| S  | Electronics, Nuclear and Risk Sciences
 | T  | Digital I&C, Nuclear reactor technology, Reliability 
 | E  | Applications of above technologies
 | M  | Engineering mathematics, Applied probability, Graph theoretic, Simulation
