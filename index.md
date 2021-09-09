@@ -140,7 +140,9 @@ I like to participate in conferences and discuss with scientists working in the 
 ## Proud moment
 
 Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, India.
-<img src = "https://www.iaea.org/sites/default/files/iaea-logo-2021.png" width =50> [FR17 Proceeding](https://www-pub.iaea.org/MTCD/Publications/PDF/STIPUB1836web.pdf)
+<img src = "https://www.iaea.org/sites/default/files/iaea-logo-2021.png" width =50> [FR17 Proceeding](https://www-pub.iaea.org/MTCD/Publications/PDF/STIPUB1836web.pdf) 
+
+[Link to download the paper](http://www-pub.iaea.org/MTCD/Publications/PDF/SupplementaryMaterials/STIPUB1836.zip)
 
 ## Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
