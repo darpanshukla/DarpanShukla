@@ -16,12 +16,13 @@
 
 I know the following STEM (Science, Technology, Engineering and Mathematics):
 
-|    |
-|----|--------------------------------------- 
-| S  | Engineering Sciences in particular Electronics, Nuclear and Risk Sciences
-| T  | Formal introduction to the technologies to Digital and analog electronics, Nuclear reactor technology, Safety and protection technologies, Python programming
+| S  | Engineering Sciences, in particular Electronics, Nuclear and Risk Sciences
+| T  | I can work in the technologies related to digital and analog electronics, Nuclear reactor technology, Safety and protection technologies, Python programming
 | E  | ECE, Nuclear and Reliability Engineering
-| M  | Engineering mathematics, Computational neutron transport, Simulation, Probabilistic risk assessment, Applied probability and graph theory. 
+| M  | Engineering mathematics, Computational neutron transport, Simulation, Probabilistic risk assessment, Applied probability and graph theory.
+
+
+
 
 ***
 
