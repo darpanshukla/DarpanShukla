@@ -19,7 +19,7 @@ I know the following STEM (Science, Technology, Engineering and Mathematics):
 |    |
 |----|--------------------------------------- 
 | S  | Engineering Sciences in particular Electronics, Nuclear and Risk Sciences
-| T  | Formal introduction to the technologies to Digital and analog electronics, Nuclear reactor technology, Safety and protection technologies
+| T  | Formal introduction to the technologies to Digital and analog electronics, Nuclear reactor technology, Safety and protection technologies, Python programming
 | E  | ECE, Nuclear and Reliability Engineering
 | M  | Engineering mathematics, Computational neutron transport, Simulation, Probabilistic risk assessment, Applied probability and graph theory. 
 
@@ -27,6 +27,7 @@ I know the following STEM (Science, Technology, Engineering and Mathematics):
 
 # Experience, skills
 
+My experience are in:
 - Nuclear safety
    * Probabilistic risk assessment
    * Digital I & C system reliability
@@ -63,8 +64,7 @@ My skills are:
 -	Documentation
 -	Literature review
 
-# publications
-## Websites for my publications
+# Publications
 
 Click below on any link for the detailed list of publications.
 
