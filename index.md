@@ -80,22 +80,6 @@ Click below on any link for the detailed list of publications.
 
 ***
 
-# Research interests and aptitude
-
--	Developing Monte Carlo simulation procedures
--	Developing smart component modelling of realistic systems
--	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance
--	My long-term research interest is to observe The History Of Probability Evolve From Probability To Probabilistic Dynamic Control
-
-**Teaching interests**
-
-- Subjects of probabilistic analysis and inference  - simulations
-- Subjects of numerical techniques
-- Subjects of modelling techniques
-- Subjects of electronics and communication engineering
-
-***
-
 # Detailed educational qualifications
 
 **DGFS Ph.D. 2015-21**
