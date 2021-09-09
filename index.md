@@ -135,7 +135,12 @@ Click below on any link for the detailed list of publications.
 
 # Technical activities
 
-I like to participate in conferences and discuss with scientists working in the field. 
+I like to participate in conferences and discuss with scientists working in the field.
+
+## Proud moment
+
+Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, India.
+
 
 ## Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
