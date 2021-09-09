@@ -16,7 +16,7 @@
 
 I know the following STEM (Science, Technology, Engineering and Mathematics):
 
-
+|    |
 |----|--------------------------------------- 
 | S  | Engineering Sciences in particular Electronics, Nuclear and Risk Sciences
 | T  | Formal introduction to the technologies to Digital and analog electronics, Nuclear reactor technology, Safety and protection technologies
