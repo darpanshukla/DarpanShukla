@@ -16,37 +16,33 @@
 
 I know the following STEM (Science, Technology, Engineering and Mathematics):
 
-| S  | Engineering Sciences, in particular Electronics, Nuclear and Risk Sciences
-| T  | I can work in the technologies related to digital and analog electronics, Nuclear reactor technology, Safety and protection technologies, Python programming
-| E  | ECE, Nuclear and Reliability Engineering
-| M  | Engineering mathematics, Computational neutron transport, Simulation, Probabilistic risk assessment, Applied probability and graph theory.
-
-
-
+| S  | I have introduction to engineering Sciences, in particular electronics, nuclear and risk sciences
+| T  | I can work in the technologies related to digital and analog electronics, nuclear reactor technology, safety and protection technologies, python programming
+| E  | My research aptitude and interests are in ECE, nuclear and reliability engineering
+| M  | I am having skills in engineering mathematics, computational neutron transport, simulation, probabilistic risk assessment, applied probability and graph theory.
 
 ***
 
-# Experience, skills
+## Experiences
 
-My experience are in:
-- Nuclear safety
-   * Probabilistic risk assessment
-   * Digital I & C system reliability
-   * Safety system reliability
-- System modeling 
+My experience in particular are:
+- Modeling 
    * Probabilistic dynamic modeling
    * Object-oriented system modeling and analysis
    * Non-homogeneous Markov process modeling 
    * Maintenance modeling
    * Model translations
-- Analysis
+   * Probabilistic risk assessment
+   * Digital I & C system reliability
+   * Safety system reliability
+- Analysis techniques
    * Monte Carlo Simulations
    * Modeling complexity
    * Computational complexity
 - Python package developed by me
    * SCM (Smart component method)
 
-
+## Skills
 My skills are:
 
 -	Monte Carlo simulations
@@ -64,6 +60,12 @@ My skills are:
        * thru Python programming
 -	Documentation
 -	Literature review
+
+## My invention
+
+Smart Component Method.
+
+My ambition is to develop smart component technology.
 
 # Publications
 
