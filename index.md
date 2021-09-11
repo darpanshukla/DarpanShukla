@@ -147,9 +147,12 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 
 ## Conferences and workshops participation
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
+
 - 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
+- International Conference on Fast Reactors and Related Fuel Cycles: Next Generation Nuclear Systems for Sustainable Development (FR17), International Atomic Energy Agency, Yekaterinburg, RUSSIAN FEDERATION, during June 26 - 29, 2017
+- Indo-UK Workshop on Modeling and Simulation of Safety and Materials for Nuclear Application, Kalpakkam, INDIA, December 16-17, 2015
 - Indian Nuclear Society Probabilistic Safety Assessment workshop, Mumbai, August, 2016
-- Nuclear Security Training Series 2014 in USA, Texas A&M University, College Station, Argonne National Laboratory, Albuquerque, Oak Ridge National Laboratories, - - Knoxville, during June 10 – July 11, 2014
+- Nuclear Security Training Series 2014 in USA, Texas A&M University, College Station, Sandia National Laboratory, Albuquerque, Oak Ridge National Laboratories, Knoxville, during June 10 – July 11, 2014
 - 55th Annual Meeting of the Institute of Nuclear Materials Management (INMM) 2014, Atlanta, USA, during July 12 – 16, 2014
 - 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
 
