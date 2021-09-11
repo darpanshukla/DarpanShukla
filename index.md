@@ -155,10 +155,6 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 - 55th Annual Meeting of the Institute of Nuclear Materials Management (INMM) 2014, Atlanta, USA, during July 12 – 16, 2014
 - 3rd International Conference on Physics and Technology of Reactors and Applications (PHYTRA) 2014, Tetouan, MOROCCO, during May 12-14, 2014
 
-**Technical presentation beyond conference**
-
-- “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
-
 **Research collaborators and technical discussion**
 
 |Collabrator                                                        |Purpose
@@ -173,6 +169,10 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 **Technical visits**
 - University of Nottingham, Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020
 - Indian Institute of Technology Delhi, Delhi, INDIA as a part of a collaborative project during November 12 – December 02, 2018
+
+**Technical presentation beyond conference**
+
+- “Presentation on Smart Component Method” at University of Nottingham, Nottingham, UK
 
 ***
 
