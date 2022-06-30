@@ -1,5 +1,6 @@
 # Darpan Krishnakumar Shukla
 
+**Postdoctoral Researcher, Chemical Engineering Department, Indian Institute of Technology Madras, Chennai, India**
 **DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
 
 ***
@@ -9,15 +10,19 @@
 - B.E. in E.C.E. (2013)
 - M.Tech. in Nuclear Engineering (2015)
 - Ph.D. in Engineering Sciences (2021)
+- Postdoctoral Research (2022-current)
 
 ***
+# STEM Projects (past three)
 
-# STEM 
+* **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
+* **Study of advanced methods for dynamic reliability analysis of digital I&C systems**
+* **Reactor criticality computations in neutron transport theory using Monte Carlo methods**
 
 I know the following STEM (Science, Technology, Engineering and Mathematics):
 
 | S  | I have introduction to engineering Sciences, in particular electronics, nuclear and risk sciences
-| T  | I can work in the technologies related to digital and analog electronics, nuclear reactor technology, safety and protection technologies, python programming
+| T  | I can work in the technologies related to risk technologies, eye-tracking, nuclear reactor technology, digital and analog electronics, python programming
 | E  | My research aptitude and interests are in ECE, nuclear and reliability engineering
 | M  | I am having skills in engineering mathematics, computational neutron transport, simulation, probabilistic risk assessment, applied probability and graph theory.
 
@@ -81,6 +86,14 @@ Click below on any link for the detailed list of publications.
 ***
 
 # Detailed educational qualifications
+
+**Postdoctoral Research (Jan. 3, 2022- current)**
+
+  - Department of Chemical Engineering, Indian Institute of Technology, Madras
+    * Project title: **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
+    * Principal advisor: Prof. Rajagopalan Srinivasan
+    * Co-advisor: Prof. Babji Srinivasan 
+
 
 **DGFS Ph.D. 2015-21**
   -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
