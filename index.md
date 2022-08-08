@@ -76,7 +76,7 @@ My ambition is to develop smart component technology.
 
 Click below on any link for the detailed list of publications.
 
-- [Ph.D. Thesis](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
+- [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
 [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 - <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
