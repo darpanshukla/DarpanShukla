@@ -76,6 +76,7 @@ My ambition is to develop smart component technology.
 
 Click below on any link for the detailed list of publications.
 
+- [Ph.D. Thesis](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
 [My ORCID Account](https://orcid.org/0000-0001-8208-3206)
 - <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
@@ -99,7 +100,7 @@ Click below on any link for the detailed list of publications.
   -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
       * Homi Bhabha National Institute (HBNI), Mumbai, India, 
       * Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
-      * Thesis title: **Study of advanced methods for dynamic reliability analysis of digital I&C systems**, 
+      * Thesis title: **Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
       * Current status: THESIS SUBMITTED TO HBNI, MUMBAI, 
       * Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
       * **Brief description**: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
