@@ -1,36 +1,36 @@
-# Darpan Krishnakumar Shukla
+# Dr. Darpan Krishnakumar Shukla
 
 **Postdoctoral Researcher, Chemical Engineering Department, Indian Institute of Technology Madras, Chennai, India**
 **DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
 
+## Skills
+I have skills of performing analysis and problem solving through abstract thinking and python programming.
+
+- Languages and softwares: 
+    * Python, MATLAB, Simscape, Petri Net, GENIE, OpenMC, MCNP, ISOGRAPH
+- Analysis: 
+    * Monte Carlo Simulations, Data Analysis, Reliability Analysis, Ergonomics,  Neutronics
+- Modeling:
+    *	Smart component modelling
+    *	Petri nets
+    *	Markov modeling 
+    *	Fault tree
+    *	Event tree
+    *	Bayesian network
+-	Documentation
+-	Literature review
+
+
 ***
-
-# Qualifications
-
-- B.E. in E.C.E. (2013)
-- M.Tech. in Nuclear Engineering (2015)
-- Ph.D. in Engineering Sciences (2021)
-- Postdoctoral Research (2022-current)
-
-***
-# STEM Projects (past three)
+# Projects
 
 * **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
+* *** Data analysis
+* *** RBD
+* *** FMECA
+* *** Human Factors Engineering - Physical Ergonomics 
+
 * **Study of advanced methods for dynamic reliability analysis of digital I&C systems**
-* **Reactor criticality computations in neutron transport theory using Monte Carlo methods**
-
-I know the following STEM (Science, Technology, Engineering and Mathematics):
-
-| S  | I have introduction to engineering Sciences, in particular electronics, nuclear and risk sciences
-| T  | I can work in the technologies related to risk technologies, eye-tracking, nuclear reactor technology, digital and analog electronics, python programming
-| E  | My research aptitude and interests are in ECE, nuclear and reliability engineering
-| M  | I am having skills in engineering mathematics, computational neutron transport, simulation, probabilistic risk assessment, applied probability and graph theory.
-
-***
-
-## Experiences
-
-My experience in particular are:
 - Modeling 
    * Probabilistic dynamic modeling
    * Object-oriented system modeling and analysis
@@ -47,24 +47,28 @@ My experience in particular are:
 - Python package developed by me
    * SCM (Smart component method)
 
-## Skills
-My skills are:
+* **Reactor criticality computations in neutron transport theory using Monte Carlo methods**
+* *** Neutron Transport Simulation
+* *** Monte Carlo Simulations
+* *** Python
+* *** Linux
 
--	Monte Carlo simulations
--	Smart component modelling
--	Modeling techniques: 
-       *	Petri nets
-       *	Markov modeling 
-       *	Fault tree
-       *	Event tree
-       *	Bayesian network
--	Modeling tools: 
-       * Macchiato PN
-       * Genie
-       * RiskSpectrum
-       * thru Python programming
--	Documentation
--	Literature review
+I know the following STEM (Science, Technology, Engineering and Mathematics):
+
+| S  | I have introduction to engineering Sciences, in particular electronics, nuclear and risk sciences
+| T  | I can work in the technologies related to risk technologies, eye-tracking, nuclear reactor technology, digital and analog electronics, python programming
+| E  | My research aptitude and interests are in ECE, nuclear and reliability engineering
+| M  | I am having skills in engineering mathematics, computational neutron transport, simulation, probabilistic risk assessment, applied probability and graph theory.
+
+***
+
+# Qualifications
+
+- Ph.D. in Engineering Sciences (2022)
+- M.Tech. in Nuclear Engineering (2015)
+- B.E. in E.C.E. (2013)
+
+
 
 ## My invention
 
@@ -74,7 +78,7 @@ My ambition is to develop smart component technology.
 
 # Publications
 
-Click below on any link for the detailed list of publications.
+Click below for the detailed list of publications.
 
 - [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
