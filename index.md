@@ -1,7 +1,15 @@
 # Dr. Darpan Krishnakumar Shukla
 
 **Postdoctoral Researcher, Chemical Engineering Department, Indian Institute of Technology Madras, Chennai, India**
-**DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
+
+# Qualifications
+
+- Ph.D. in Engineering Sciences (2022) 
+   * DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
+- M.Tech. in Nuclear Engineering (2015)
+- B.E. in E.C.E. (2013)
+
+***
 
 ## Skills
 I have skills of performing analysis and problem solving through abstract thinking and python programming.
@@ -11,27 +19,22 @@ I have skills of performing analysis and problem solving through abstract thinki
 - Analysis: 
     * Monte Carlo Simulations, Data Analysis, Reliability Analysis, Ergonomics,  Neutronics
 - Modeling:
-    *	Smart component modelling
-    *	Petri nets
-    *	Markov modeling 
-    *	Fault tree
-    *	Event tree
-    *	Bayesian network
+    *	Smart component modelling,	Petri nets,	Markov modeling, Fault tree, Event tree, Bayesian network
 -	Documentation
 -	Literature review
 
 
 ***
-# Projects
+# Experience and projects
 
 * **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
-* *** Data analysis
-* *** RBD
-* *** FMECA
-* *** Human Factors Engineering - Physical Ergonomics 
+   * Data analysis
+   * RBD
+   * FMECA
+   * Human Factors Engineering - Physical Ergonomics, Psychosocial Ergonomics, Organizational Ergonomics
 
 * **Study of advanced methods for dynamic reliability analysis of digital I&C systems**
-- Modeling 
+   - Modeling 
    * Probabilistic dynamic modeling
    * Object-oriented system modeling and analysis
    * Non-homogeneous Markov process modeling 
@@ -40,18 +43,21 @@ I have skills of performing analysis and problem solving through abstract thinki
    * Probabilistic risk assessment
    * Digital I & C system reliability
    * Safety system reliability
-- Analysis techniques
+   - Analysis techniques
    * Monte Carlo Simulations
    * Modeling complexity
    * Computational complexity
-- Python package developed by me
+   - Python package developed by me
    * SCM (Smart component method)
 
 * **Reactor criticality computations in neutron transport theory using Monte Carlo methods**
-* *** Neutron Transport Simulation
-* *** Monte Carlo Simulations
-* *** Python
-* *** Linux
+   * Neutron Transport Simulation
+   * Monte Carlo Simulations
+   * Python
+   * Linux
+
+***
+# STEM
 
 I know the following STEM (Science, Technology, Engineering and Mathematics):
 
@@ -61,20 +67,9 @@ I know the following STEM (Science, Technology, Engineering and Mathematics):
 | M  | I am having skills in engineering mathematics, computational neutron transport, simulation, probabilistic risk assessment, applied probability and graph theory.
 
 ***
-
-# Qualifications
-
-- Ph.D. in Engineering Sciences (2022)
-- M.Tech. in Nuclear Engineering (2015)
-- B.E. in E.C.E. (2013)
-
-
-
-## My invention
+# My inventions
 
 Smart Component Method.
-
-My ambition is to develop smart component technology.
 
 # Publications
 
@@ -197,7 +192,7 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 # Pesonal details
 
 **Extracarriculum activities**
-
+- Organization of 10th ASIAN SYMPOSIUM ON PROCESS SYSTEMS ENGINEERING
 - JRF Representative Committee - Mess (JRC– Mess): mess representative during July 2017- July 2021 at JRF Enclave hostel of IGCAR.
 
 
