@@ -37,7 +37,7 @@
 **Master of Technology (Nuclear Engineering)**
 
 | Affiliation | Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, INDIA |
-| Grade | 1.94/10 |
+| Grade | 7.94/10 |
 | Date | June 24, 2015 |
 | Dissertation title | **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method) |
 | Courses: | Introduction of Nuclear Technology, Nuclear Thermal Hydraulics, Nuclear Reactor Theory, Advanced Numerical Methods and Computer Programming (Theory and practical), Renewable Energy and Energy Management, Radioisotope Applications, Reliability in Nuclear Power Plants, Nuclear Power Plant Engineering, Nuclear Fuel Cycle, Nuclear Plant Operation Dynamics and Control, Radiation Measurement and Radiation Protection (Theory and practical), and Nuclear Safety |
