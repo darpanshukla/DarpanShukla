@@ -1,13 +1,64 @@
-# Dr. Darpan Krishnakumar Shukla
+# Educational qualifications
 
-**Postdoctoral Researcher, Chemical Engineering Department, Indian Institute of Technology Madras, Chennai, India**
+## Postdoctoral Research 
 
-# Education
+| Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
+| Duration | January 3, 2022 - current |
+| Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking |
+| Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
+| Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
 
-- Ph.D. in Engineering Sciences (2022) 
-   * DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
-- M.Tech. in Nuclear Engineering (2015)
-- B.E. in E.C.E. (2013)
+* Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
+*	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
+*	Study of EMERSON control system
+*	Checkpoints for physical ergonomics evaluation
+*	Physical ergonomics risk assessment and management
+*	Study of psychosocial ergonomics evaluation methods
+
+
+
+## Doctor of Philosophy in Engineering
+
+| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India|
+| Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
+| Position II | DAE's Graduate Fellow (Nuclear) during October 14, 2016 - December 31, 2021 |
+| Ph.D enrolment | August 01, 2016 |
+| Result approved on | June 28, 2022 |
+| Thesis title |**Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)|
+| Thesis supervisor | Prof. A. John Arul,Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR |
+| Courses | Introduction to Research, Stochastic Processes, Credit Seminar I, Credit Seminar II, Computational Methods, Introductory Reactor Physics and Engineering, Radiation Shielding Design and Protection, Reactor Dynamics and Safety Analysis, and Advanced Computational Methods in Reactor Physics |
+| Brief description | The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.|
+| Project 1 | **Development of a new smart component method** Development of smart component method for dynamic reliability analysis, combining object-oriented system representation and Monte Carlo Simulation (MCS), for addressing challenges of existing dynamic reliability analysis methods - the general modelling capability, scalability, interface with other static or dynamic method, user-friendliness and burden of proof-of-correctness. Development of crude and accelerated MCS procedures for simulating the time ordered events, process variables, control actions, multiple failure modes, dependence of reliability parameters on process variables and time. |
+| Project 2 | **Reliability modelling and analysis of dynamic tested system, systems with non-homogeneous failure distribution, a hypothetical decay heat removal system, an industrial scale shutdown system, heated tank system** |
+| Project 3 | **Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques** |
+| Project 4 | **A review of dynamic reliability methods** |
+| Project 4 | **Development of Petri net reliability modelling techniques:** Development of an efficient Dijkstra’s semaphore-based Petri net (PN) voting model. Developed techniques for beta common cause failure modelling, system structuring etc in object oriented PN reliability modelling. |
+| Project 4 | **Development of an automatic method for generating Petri net model from smart component model:** Development of a method for automatic generation of Petri net model from smart component reliability model of the system. Development of a method to identify hierarchical structure in a networked system. Development of a method to generate standard Petri net models. |
+| Project 4 | **Human reliability prediction model from SACADA dataset:** Utilization of Artificial Intelligence techniques and Bayesian Network for developing predictive human reliability model. Use of heuristics methods for estimating BN parameters. |
+| Deputations | -Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA, as a part of a collaborative project during November 12 – December 02, 2018 -Prof. John Andrews, Dr. Mark Wootton, University of Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020 |
+
+
+
+## Master of Technology (Nuclear Engineering)
+- M.Tech. in Nuclear Engineering (79.40%)
+  * Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
+  * Dissertation title: **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link to ResearchGate](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method)
+  * **Brief description:** M.Tech. degree involves courses of nuclear reactor theory, radiation physics, heat and mass transfer, reliability engineering etc. In M.Tech. dissertation work, I have learned using of open source neutron transport code such as OpenMC and Dragon. I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods.
+
+**B.E. 2009-13**
+- B.E. in Electronics and Communication Engineering (76.00%)
+  * Government Engineering College, Rajkot, affiliated to 
+  * Gujarat Technological University, Ahmedabad, Gujarat, India
+
+**2008-09**
+- Higher Secondary Certificate (81.80%)
+  * Shri G. K. Dholakiya High School, Rajkot affiliated to
+  * Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India
+
+**2007**
+- Secondary School Certificate (82.62%)
+  * Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
+  * GSHSEB, Gujarat, India
 
 ***
 
@@ -82,61 +133,6 @@ Click below for the detailed list of publications.
 [My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
 - <img src="https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png" width = "25">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
-
-***
-
-# Detailed educational qualifications
-
-## Postdoctoral Research 
-
-| Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
-| Duration | January 3, 2022 - current |
-| Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking |
-| Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
-| Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
-
-* Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
-*	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
-*	Study of EMERSON control system
-*	Checkpoints for physical ergonomics evaluation
-*	Physical ergonomics risk assessment and management
-*	Study of psychosocial ergonomics evaluation methods
-
-
-
-## Doctor of Philosophy in Engineering
-
-| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India|
-| Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
-| Position II | DAE's Graduate Fellow (Nuclear) during October 14, 2016 - December 31, 2021 |
-| Ph.D enrolment | August 01, 2016 |
-| Result approved on | June 28, 2022 |
-| Thesis title |**Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)|
-| Thesis supervisor | Prof. A. John Arul,Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR |
-| Courses | Introduction to Research, Stochastic Processes, Credit Seminar I, Credit Seminar II, Computational Methods, Introductory Reactor Physics and Engineering, Radiation Shielding Design and Protection, Reactor Dynamics and Safety Analysis, and Advanced Computational Methods in Reactor Physics |
-| Brief description | The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.|
-
-
-## Master of Technology (Nuclear Engineering)
-- M.Tech. in Nuclear Engineering (79.40%)
-  * Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
-  * Dissertation title: **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link to ResearchGate](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method)
-  * **Brief description:** M.Tech. degree involves courses of nuclear reactor theory, radiation physics, heat and mass transfer, reliability engineering etc. In M.Tech. dissertation work, I have learned using of open source neutron transport code such as OpenMC and Dragon. I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods.
-
-**B.E. 2009-13**
-- B.E. in Electronics and Communication Engineering (76.00%)
-  * Government Engineering College, Rajkot, affiliated to 
-  * Gujarat Technological University, Ahmedabad, Gujarat, India
-
-**2008-09**
-- Higher Secondary Certificate (81.80%)
-  * Shri G. K. Dholakiya High School, Rajkot affiliated to
-  * Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India
-
-**2007**
-- Secondary School Certificate (82.62%)
-  * Shree Sarveshwar Vidyamandiar, Rajkot affiliated to
-  * GSHSEB, Gujarat, India
 
 ***
 
