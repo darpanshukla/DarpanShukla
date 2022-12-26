@@ -4,7 +4,7 @@
 
 # Educational qualifications
 
-## Postdoctoral Research 
+### Postdoctoral Research 
 
 | Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
 | Duration | January 3, 2022 - current |
@@ -19,7 +19,7 @@
 *	Physical ergonomics risk assessment and management
 *	Study of psychosocial ergonomics evaluation methods
 
-## Doctor of Philosophy in Engineering
+### Doctor of Philosophy in Engineering
 
 | Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India|
 | Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
@@ -33,29 +33,29 @@
 | Projects | **Development of a new smart component method:** Development of smart component method for dynamic reliability analysis, combining object-oriented system representation and Monte Carlo Simulation (MCS), for addressing challenges of existing dynamic reliability analysis methods - the general modelling capability, scalability, interface with other static or dynamic method, user-friendliness and burden of proof-of-correctness. Development of crude and accelerated MCS procedures for simulating the time ordered events, process variables, control actions, multiple failure modes, dependence of reliability parameters on process variables and time. <br><br>**Reliability modelling and analysis of dynamic tested system, systems with non-homogeneous failure distribution, a hypothetical decay heat removal system, an industrial scale shutdown system, heated tank system**<br><br>**Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques**<br><br>**A review of dynamic reliability methods**<br><br>**Development of Petri net reliability modelling techniques:** Development of an efficient Dijkstra’s semaphore-based Petri net (PN) voting model. Developed techniques for beta common cause failure modelling, system structuring etc in object oriented PN reliability modelling.<br><br>**Development of an automatic method for generating Petri net model from smart component model:** Development of a method for automatic generation of Petri net model from smart component reliability model of the system. Development of a method to identify hierarchical structure in a networked system. Development of a method to generate standard Petri net models.<br><br>**Human reliability prediction model from SACADA dataset:** Utilization of Artificial Intelligence techniques and Bayesian Network for developing predictive human reliability model. Use of heuristics methods for estimating BN parameters. |
 | Deputations | Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA, as a part of a collaborative project during November 12 – December 02, 2018 <br><br>Prof. John Andrews, Dr. Mark Wootton, University of Nottingham, UK as a part of a collaborative project DAMMSLE during January 12 - 25, 2020 |
 
-## Master of Technology (Nuclear Engineering)
+### Master of Technology (Nuclear Engineering)
 
 | Affiliation | Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India |
 | Grade | 1.94/10 |
 | Date | June 24, 2015 |
-| Dissertation title: **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method) |
+| Dissertation title | **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method) |
 | Courses: | Introduction of Nuclear Technology, Nuclear Thermal Hydraulics, Nuclear Reactor Theory, Advanced Numerical Methods and Computer Programming (Theory and practical), Renewable Energy and Energy Management, Radioisotope Applications, Reliability in Nuclear Power Plants, Nuclear Power Plant Engineering, Nuclear Fuel Cycle, Nuclear Plant Operation Dynamics and Control, Radiation Measurement and Radiation Protection (Theory and practical), and Nuclear Safety |
 | Projects | **Utilization of open-source neutron transport codes:** Utilization of open-source neutron transport code such as OpenMC based on MCS and DRAGON based on numerical differentiation technique. <br><br> **Development of a computational tool for criticality computation based on Monte Carlo methods:** I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods. Example study of Godiva and Jezebel. |
 
 
-## Bachelor of Engineering in in Electronics and Communication Engineering
+### Bachelor of Engineering in in Electronics and Communication Engineering
 
 | Affiliation | Government Engineering College, Rajkot, affiliated to <br><br> Gujarat Technological University, Ahmedabad, Gujarat, India |
 | CGPA | 8.1/10 (Distinction) |
 | Date | June 30, 2013 |
 
-## Higher Secondary Certificate
+### Higher Secondary Certificate
 
 | Affiliation | Shri G. K. Dholakiya High School, Rajkot affiliated to <br><br> Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India |
 | Grade | 81.80% (Distinction) |
 | Date | May 28, 2009 |
 
-## Secondary School Certificate (82.62%)
+### Secondary School Certificate (82.62%)
 | Affiliation | Shree Sarveshwar Vidyamandiar, Rajkot affiliated to GSHSEB, Gujarat, India |
 | Grade | 82.62% (Distinction) |
 | Date | May 31, 2007 |
@@ -80,7 +80,7 @@
 
 # Skills, research interests and aptitude
 
-## Skills
+### Skills
 
 I have skills of performing analysis and problem solving through abstract thinking and python programming.
 
@@ -91,7 +91,7 @@ I have skills of performing analysis and problem solving through abstract thinki
 | Modeling techniques | Petri nets, Bayesian Networks, Markov modeling, RBD, fault tree, event tree |
 | **Expertise** | 	Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity |
 
-## Research interests and aptitude
+### Research interests and aptitude
 
 *	Developing Monte Carlo simulation procedures
 *	Developing object-oriented and smart component modelling of realistic systems
@@ -120,9 +120,9 @@ Click below for the detailed list of publications.
 
 # Seminars
 
-*	==Seminar on a smart component methodology for reliability analysis of dynamic systems==, on January 23, 2020, at B38, Lenton Firs, University of Nottingham, UK; on August 29, 2019 at NPCIL, BHAVINI, INDIA, and on August 26, 2019, CDO Lecture Hall, IGCAR, INDIA
-•	==A review of dynamic reliability methods==, Credit seminar I, February 21, 2018, HBNI, IGCAR, INDIA
-•	==Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques==, Credit seminar II, January 09, 2018, HBNI, IGCAR, INDIA
+*	**Seminar on a smart component methodology for reliability analysis of dynamic systems**, on January 23, 2020, at B38, Lenton Firs, University of Nottingham, UK; on August 29, 2019 at NPCIL, BHAVINI, INDIA, and on August 26, 2019, CDO Lecture Hall, IGCAR, INDIA
+*	**A review of dynamic reliability methods**, Credit seminar I, February 21, 2018, HBNI, IGCAR, INDIA
+•	**Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques**, Credit seminar II, January 09, 2018, HBNI, IGCAR, INDIA
 
 # Proud moment
 
@@ -153,7 +153,6 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 -	Finance committee, Organizing Committee of Research Scholar’s Meet, May 07 – 09, 2018, IGCAR
 -	Initial, Plectrum Guitar, Trinity College London
 
-**Personal details**
 
 - DOB: November 18, 1991
 - Languages: 
