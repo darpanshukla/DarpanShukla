@@ -55,7 +55,7 @@
 | Grade | 81.80% (Distinction) |
 | Date | May 28, 2009 |
 
-### Secondary School Certificate (82.62%)
+### Secondary School Certificate
 | Affiliation | Shree Sarveshwar Vidyamandiar, Rajkot affiliated to GSHSEB, Gujarat, India |
 | Grade | 82.62% (Distinction) |
 | Date | May 31, 2007 |
