@@ -2,7 +2,7 @@
 
 **Postdoctoral Researcher, Chemical Engineering Department, Indian Institute of Technology Madras, Chennai, India**
 
-# Qualifications
+# Education
 
 - Ph.D. in Engineering Sciences (2022) 
    * DGFS Research Scholar @ [Indira Gandhi Centre for Atomic Research (IGCAR)](http://www.igcar.gov.in), Kalpakkam, Tamil Nadu **
@@ -87,16 +87,26 @@ Click below for the detailed list of publications.
 
 # Detailed educational qualifications
 
-**Postdoctoral Research (Jan. 3, 2022- current)**
+##Postdoctoral Research 
 
-  - Department of Chemical Engineering, Indian Institute of Technology, Madras
-    * Project title: **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
-    * Principal advisor: Prof. Rajagopalan Srinivasan
-    * Co-advisor: Prof. Babji Srinivasan 
+|Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras
+|Duration | January 3, 2022 - current
+|Project title | **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
+|Principal advisor | Prof. Rajagopalan Srinivasan
+|Co-advisor        | Prof. Babji Srinivasan 
+|Work description|
+* In this position, I carried out exploratory research and submitted reports on the following subjects.
+* Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
+*	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
+*	Study of EMERSON control system
+*	Checkpoints for physical ergonomics evaluation
+*	Physical ergonomics risk assessment and management
+*	Study of psychosocial ergonomics evaluation methods
 
 
-**DGFS Ph.D. 2015-21**
-  -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
+
+##Doctor of Philosophy in Engineering
+-	Ph.D. in Engineering Sciences (Nuclear Engineering) 
       * Homi Bhabha National Institute (HBNI), Mumbai, India, 
       * Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
       * Thesis title: **Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
@@ -170,7 +180,7 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
 
 **Research collaborators and technical discussion**
 
-|Collabrator                                                        |Purpose
+|Collabrator                                                        |Work
 |----------------------------------------------------------------   |----------------------------------------------------------------------------------------------
 |Prof. S. Dharmaraja, Indian Institute of Technology Delhi, INDIA   |Non-homogeneous Markov reliability modelling, Monte Carlo simulation, acceleration techniques, and Markov regenerative process modelling, discussion on decision support system
 |Prof. John D. Andrews, Dr. Mark James Wootton, University of Nottingham, Nottingham, UK   |Use of Macchiato Petri net (PN) modelling software for reliability modelling of fast reactor shutdown system, Developed efficient Dijkstra’s semaphore based PN voting model, Model translation of smart component model to PN
