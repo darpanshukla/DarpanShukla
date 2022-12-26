@@ -93,7 +93,6 @@ Click below for the detailed list of publications.
 | Duration | January 3, 2022 - current |
 | Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking |
 | Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
-
 | Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
 
 * Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
@@ -106,13 +105,17 @@ Click below for the detailed list of publications.
 
 
 ## Doctor of Philosophy in Engineering
--	Ph.D. in Engineering Sciences (Nuclear Engineering) 
-      * Homi Bhabha National Institute (HBNI), Mumbai, India, 
-      * Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
-      * Thesis title: **Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
-      * Current status: THESIS SUBMITTED TO HBNI, MUMBAI, 
-      * Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
-      * **Brief description**: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
+
+| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India|
+| Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
+| Position II | DAE's Graduate Fellow (Nuclear) during October 14, 2016 - December 31, 2021 |
+| Ph.D enrolment | August 01, 2016 |
+| Result approved on | June 28, 2022 |
+| Thesis title |**Study of advanced methods for dynamic reliability analysis of digital I&C systems**, [Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)|
+| Thesis supervisor | Prof. A. John Arul,Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR |
+| Courses | Introduction to Research, Stochastic Processes, Credit Seminar I, Credit Seminar II, Computational Methods, Introductory Reactor Physics and Engineering, Radiation Shielding Design and Protection, Reactor Dynamics and Safety Analysis, and Advanced Computational Methods in Reactor Physics |
+| Brief description | The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.|
+
 
 ## Master of Technology (Nuclear Engineering)
 - M.Tech. in Nuclear Engineering (79.40%)
