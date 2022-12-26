@@ -91,11 +91,12 @@ Click below for the detailed list of publications.
 
 | Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras
 | Duration | January 3, 2022 - current
-| Project title | **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
+| Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking
 | Principal advisor | Prof. Rajagopalan Srinivasan
 | Co-advisor        | Prof. Babji Srinivasan 
-| Work description |
-* In this position, I carried out exploratory research and submitted reports on the following subjects.
+
+Work description:
+- In this position, I carried out exploratory research and submitted reports on the following subjects.
 * Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
 *	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
 *	Study of EMERSON control system
