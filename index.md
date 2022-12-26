@@ -21,7 +21,7 @@
 
 **Doctor of Philosophy in Engineering
 
-| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, India, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India|
+| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, INDIA, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, INDIA |
 | Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
 | Position II | DAE's Graduate Fellow (Nuclear) during October 14, 2016 - December 31, 2021 |
 | Ph.D enrolment | August 01, 2016 |
@@ -35,7 +35,7 @@
 
 **Master of Technology (Nuclear Engineering)
 
-| Affiliation | Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India |
+| Affiliation | Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, INDIA |
 | Grade | 1.94/10 |
 | Date | June 24, 2015 |
 | Dissertation title | **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method) |
@@ -45,18 +45,18 @@
 
 **Bachelor of Engineering in in Electronics and Communication Engineering
 
-| Affiliation | Government Engineering College, Rajkot, affiliated to <br><br> Gujarat Technological University, Ahmedabad, Gujarat, India |
+| Affiliation | Government Engineering College, Rajkot, affiliated to <br><br> Gujarat Technological University, Ahmedabad, Gujarat, INDIA |
 | CGPA | 8.1/10 (Distinction) |
 | Date | June 30, 2013 |
 
 **Higher Secondary Certificate
 
-| Affiliation | Shri G. K. Dholakiya High School, Rajkot affiliated to <br><br> Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, India |
+| Affiliation | Shri G. K. Dholakiya High School, Rajkot affiliated to <br><br> Gujarat Secondary and Higher Secondary Education Board (GSHSEB), Gujarat, INDIA |
 | Grade | 81.80% (Distinction) |
 | Date | May 28, 2009 |
 
 **Secondary School Certificate
-| Affiliation | Shree Sarveshwar Vidyamandiar, Rajkot affiliated to GSHSEB, Gujarat, India |
+| Affiliation | Shree Sarveshwar Vidyamandiar, Rajkot affiliated to GSHSEB, Gujarat, INDIA |
 | Grade | 82.62% (Distinction) |
 | Date | May 31, 2007 |
 
@@ -126,7 +126,7 @@ Click below for the detailed list of publications.
 
 # Proud moment
 
-Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, India.
+Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, INDIA.
 
 <img src = "https://www.iaea.org/sites/default/files/iaea-logo-2021.png" width ="100"> [FR17 Proceeding](https://www-pub.iaea.org/MTCD/Publications/PDF/STIPUB1836web.pdf) 
 
