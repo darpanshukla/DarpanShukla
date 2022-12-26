@@ -89,14 +89,13 @@ Click below for the detailed list of publications.
 
 ## Postdoctoral Research 
 
-| Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras
-| Duration | January 3, 2022 - current
-| Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking
-| Principal advisor | Prof. Rajagopalan Srinivasan
-| Co-advisor        | Prof. Babji Srinivasan 
+| Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
+| Duration | January 3, 2022 - current |
+| Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking |
+| Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
 
-Work description:
-- In this position, I carried out exploratory research and submitted reports on the following subjects.
+| Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
+
 * Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
 *	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
 *	Study of EMERSON control system
@@ -115,7 +114,7 @@ Work description:
       * Guide: PROF. A. JOHN ARUL, Scientific Officer H+, Head, Reactor Shielding and Data Division, Reactor Design and Technology Group, IGCAR, 
       * **Brief description**: The field of research is dynamic reliability modelling and analysis. The thesis studies and develops a new smart component method having efficient methods for reliability modelling and analysis of dynamic systems. This method is applied to reliability of industrial scale nuclear safety systems such as decay heat removal system and shutdown system and inter-compared the developed methods with Petri net modelling technique. The thesis also improves modelling complexity of Petri net voting model guided in IEC 62551 standard. Thesis develops method for model translation from smart component model of system to Petri net model.
 
-**M.Tech. 2013-15**
+## Master of Technology (Nuclear Engineering)
 - M.Tech. in Nuclear Engineering (79.40%)
   * Pandit Deendayal Petroleum University, Gandhinagar, Gujarat, India
   * Dissertation title: **Reactor criticality computations in neutron transport theory using Monte Carlo methods** [Link to ResearchGate](https://www.researchgate.net/publication/298169920_Reactor_Criticality_Computations_in_Neutron_Transport_Theory_Using_Monte_Carlo_Method)
