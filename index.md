@@ -87,9 +87,10 @@ Click below for the detailed list of publications.
 
 # Detailed educational qualifications
 
-##Postdoctoral Research 
+## Postdoctoral Research 
 
 |Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras
+|----------------------------|--------------------------------------------------------------------------------
 |Duration | January 3, 2022 - current
 |Project title | **Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking**
 |Principal advisor | Prof. Rajagopalan Srinivasan
@@ -105,7 +106,7 @@ Click below for the detailed list of publications.
 
 
 
-##Doctor of Philosophy in Engineering
+## Doctor of Philosophy in Engineering
 -	Ph.D. in Engineering Sciences (Nuclear Engineering) 
       * Homi Bhabha National Institute (HBNI), Mumbai, India, 
       * Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, India, 
