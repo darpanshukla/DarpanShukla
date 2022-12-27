@@ -1,6 +1,10 @@
 # Dr. Darpan Krishnakumar Shukla
 
 ***
+# Personal summary
+*I have multi-disciplinary educational qualifications with experiences in broad areas. I believe in two aspects of human life. One is work. I work with emotions and interest towards problem solving by learning from scratch, and towards generating results with comprehensive considerations and efficiency. I look for job satisfaction, technicality and simplicity. Second is life. I be a good friend with everyone and be simple. Grateful to teachers. My life goals are continuous development and supramental manifestation.*
+
+
 
 # Educational qualifications
 
@@ -12,12 +16,18 @@
 | Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
 | Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
 
-* Reliability analysis of submarine sonar system using MIL-STD, RBD, FMECA module of ITEM TOOLKIT
-*	Development of an atomic event tree method for human reliability analysis in CSTR simulator operation with operator’s eye-tracking information
-*	Study of EMERSON control system
-*	Checkpoints for physical ergonomics evaluation
-*	Physical ergonomics risk assessment and management
-*	Study of psychosocial ergonomics evaluation methods
+*	Study of psychosocial ergonomics evaluation methods, December 22, 2022
+*	Checkpoints for physical ergonomics evaluation (ANSI/HFES 100), November 10, 2022
+*	Ergonomics evaluation case studies of TEM operation and office work using RULA, ROSA and RAMP, October 10, 2022
+*	Review on Handbook of control room design and ergonomics, September 18, 2022
+*	Report on control system of EMERSON Ovation OCR 1100 and of MITS, September, 15, 2022
+*	Event tree approach for human error probability estimation, June 30, 2022
+*	HRA of SGTR using CREAM, ATHEANA, HEART and extended CREAM, April 20, 2022
+*	Introduction to submarine sonar system, March 30, 2022
+*	Literature review on sonar maintenance and human aspect in repair, March 10, 2022
+*	Review of MIL-STD-217, -1626A, February 3, 2022
+*	Use of MIL-STD-217, RBD, FMECA modules in ITEM TOOLKIT, January 31, 2022
+
 
 **Doctor of Philosophy in Engineering**
 
