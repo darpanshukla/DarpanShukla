@@ -10,14 +10,16 @@
 
 I have skills of performing analysis and problem solving through abstract thinking and python programming.
 
-## Programming and software skills (with self assessment scores out-of 10 indicating proficiency or level of experience)
+**Programming and software skills**
+
+(with self assessment scores out-of 10 indicating proficiency or level of experience)
 
 | **Programming techniques | Object-oriented (5), functional (7), parallelization (5)** |
 | Software tools | Python (7), Github (3), MATLAB (7), ISOGRAPH (9), ITEM TOOLKIT (9), GENIE (9), SIMULINK (5), SIMSCAPE (5), OpenMC (7), DRAGON (3), MCNP (3), Latex (9) |
 | Python libraries (7) | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
 | Analysis | Reliability analysis (9), Data analysis (5),  Probabilistic Safety/Risk Assessment and Management (5) |
 
-## Reliability engineering skills
+**Reliability engineering skills**
 
 |	Reliability techniques | Failure rate (10), RBD (10), Fault tree (10), Event tree (10), FMECA (10), Markov modeling (10), Petri nets (7), Bayesian network (7), Maintenance modeling (5),  Approximation method (9), Phased mission modeling (10) |
 |	Reliability standards awareness | DOE-HDBK-1013 (I&C), IEC 61078 (RBD), 60812 (FMEA), 62551 (PN), 60319, 61586, 62308-TR (Electronics), 60300, 61508, 61511 (Functional safety), 61069-5,-7 (Dependability), MIL-STD-217H (Rate), -882E (System safety), NASA-TM-106313 (DfR) |
