@@ -14,7 +14,7 @@ I have skills of performing analysis and problem solving through abstract thinki
 
 (with self assessment scores out-of 10 indicating proficiency or level of experience)
 
-| **Programming techniques | Object-oriented (5), functional (7), parallelization (5)** |
+| **Programming techniques** | Object-oriented (5), functional (7), parallelization (5) |
 | Software tools | Python (7), Github (3), MATLAB (7), ISOGRAPH (9), ITEM TOOLKIT (9), GENIE (9), SIMULINK (5), SIMSCAPE (5), OpenMC (7), DRAGON (3), MCNP (3), Latex (9) |
 | Python libraries (7) | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
 | Analysis | Reliability analysis (9), Data analysis (5),  Probabilistic Safety/Risk Assessment and Management (5) |
