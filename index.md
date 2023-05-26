@@ -7,11 +7,10 @@
 - [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
 [ORCID](https://orcid.org/0000-0001-8208-3206)
-- <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
+- <img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "25"> 
 [My Youtube channel](https://youtube.com/@darpanshukla6471)
-- <img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "25">
+- <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width = "25">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
-- < img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width = "25">
 
 
 ***
