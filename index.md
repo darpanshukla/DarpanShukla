@@ -1,10 +1,22 @@
 # Dr. Darpan Krishnakumar Shukla
 
 ***
+
+# Links
+
+- [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
+- <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
+[My ORCID Account](https://orcid.org/0000-0001-8208-3206)
+- <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
+[My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
+- <img src="https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png" width = "25">
+[linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
+
+***
 # Personal summary
 *I have multi-disciplinary educational qualifications with experiences in broad areas. I believe in two aspects of human life. One is work. I work with emotions and interest towards problem solving by learning from scratch, and towards generating results with comprehensive considerations and efficiency. I look for job satisfaction, technicality and simplicity. Second is life. I be a good friend with everyone and be simple. Grateful to teachers. My life goals are continuous development and supramental manifestation.*
 
-# Skills, research interests and aptitude
+# Skills
 
 **Skills**
 
@@ -47,7 +59,7 @@ I have skills of performing analysis and problem solving through abstract thinki
 
 ***
 
-# Educational qualifications
+# Education
 
 **Postdoctoral Research**
 
@@ -131,29 +143,13 @@ I have skills of performing analysis and problem solving through abstract thinki
 
 ***
 
-
-
-# Publications
-
-Click below for the detailed list of publications.
-
-- [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
-- <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
-[My ORCID Account](https://orcid.org/0000-0001-8208-3206)
-- <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
-[My ResearchGate profile](https://www.researchgate.net/profile/Darpan_Shukla4)
-- <img src="https://user-images.githubusercontent.com/8653914/129531820-1e4d3d96-0c25-4d5a-8680-d59efca535b9.png" width = "25">
-[linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
-
-***
-
 # Seminars
 
 *	**Seminar on a smart component methodology for reliability analysis of dynamic systems**, on January 23, 2020, at B38, Lenton Firs, University of Nottingham, UK; on August 29, 2019 at NPCIL, BHAVINI, INDIA, and on August 26, 2019, CDO Lecture Hall, IGCAR, INDIA
 *	**A review of dynamic reliability methods**, Credit seminar I, February 21, 2018, HBNI, IGCAR, INDIA
 *	**Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques**, Credit seminar II, January 09, 2018, HBNI, IGCAR, INDIA
 
-# Proud moment
+# Esteem
 
 Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, INDIA.
 
