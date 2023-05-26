@@ -4,7 +4,7 @@
 
 # Links
 
-- <img src="http://www.hbni.ac.in/images2/header_logo.png" width = "25">
+- <img src="http://www.hbni.ac.in/images2/header_logo.png" width = "250">
 [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 - <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "25">
 [ORCID](https://orcid.org/0000-0001-8208-3206)
