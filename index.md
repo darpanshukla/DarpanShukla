@@ -42,7 +42,6 @@ I have skills of performing analysis and problem solving through abstract thinki
 |	Human factors standards | ANSI/HFES-100 (Workstation), ASTM-E2350 (NEW), ISO-26800 (General), TS 20646 (MSD), 9241-306 (HSI), 6385 (Work system) MIL-STD-1472H (HE), NASA-STD-3000, NUREG-0700,-0711 (MSI) |
 |	Human factors methods | Hierarchical task analysis, Posture analysis, RULA, REBA, ROSA, RAMP, APHIRM |
 
-## Expertise
 
 | **Expertise** | 	Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity |
 
@@ -53,9 +52,8 @@ I have skills of performing analysis and problem solving through abstract thinki
 *	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance and resilience
 *	My long-term research interest is probability theory
 
-## Python packages
-
-* Smart Component Method
+** Development **
+* Smart Component Method, Python
 
 ***
 
