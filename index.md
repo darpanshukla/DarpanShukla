@@ -9,7 +9,7 @@
 [ORCID](https://orcid.org/0000-0001-8208-3206)
 - <img src="https://livesproject21.org/wp-content/uploads/2018/01/Rg-icon-copie.png" width = "25">
 [My Youtube channel](https://youtube.com/@darpanshukla6471)
-- <img src="https://youtube.com/@darpanshukla6471" width = "25">
+- <img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "25">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
 ***
