@@ -13,6 +13,11 @@
 - <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width = "50">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
+***
+# Present work assignment
+
+**R and D Project Manager at Monk9Tech Pvt. Ltd., Rajkot since Feb 02, 2023**
+
 
 ***
 # Personal summary
