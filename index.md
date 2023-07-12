@@ -16,7 +16,7 @@
 ***
 # Present work assignment
 
-**R and D Project Manager at Monk9Tech Pvt. Ltd., Rajkot since Feb 02, 2023**
+**R and D Project Manager at Monk9Tech Pvt. Ltd., Rajkot since Feb 01, 2023**
 
 
 ***
