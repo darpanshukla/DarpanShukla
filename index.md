@@ -16,7 +16,8 @@
 ***
 # Present work assignment
 
-**R and D Project Manager at Monk9Tech Pvt. Ltd., Rajkot since Feb 01, 2023**
+1. R&D Project Manager, Monk9Tech Pvt. Ltd., Rajkot, India (Feb 01, 2023 - now) 
+2. Academic Counsellor, Indira Gandhi National Open University, Rajkot Center, India (July 7, 2023 - now) 
 
 
 ***
