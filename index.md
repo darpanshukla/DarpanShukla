@@ -2,8 +2,6 @@
 
 ***
 
-# Links
-
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Homi_Bhabha_National_Institute_logo.png/220px-Homi_Bhabha_National_Institute_logo.png" width = "50">
 [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 
@@ -17,61 +15,24 @@
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
 
 ***
-# Present work assignment
 
-1. R&D Project Manager, Monk9Tech Pvt. Ltd., Rajkot, India (Feb 01, 2023 - now) 
-2. Academic Counsellor, Indira Gandhi National Open University, Rajkot Center, India (July 7, 2023 - now) 
-
-
-***
 # Personal summary
 I have multi-disciplinary educational qualifications with experiences in broad areas. I believe in two aspects of human life. One is work. I work with emotions and interest towards problem solving by learning from scratch, and towards generating results with comprehensive considerations and efficiency. I look for job satisfaction, technicality and simplicity. Second is life. I be a good friend with everyone and be simple. Grateful to teachers. My life goals are continuous development and supramental manifestation.
 
 # Professional summary
 I have multi-disciplinary educational qualifications with experiences in broad areas. In the past 8 years, my working area (fundamental and applied) has been around reliability, a branch of applied mathematics or more precisely applied probability. Reliability engineering is a multidisciplinary subject and I have extensive experience in my formal assignments to the multiple disciplinary engineered systems - nuclear energy, defense, and human. In chronological order, my reliability applications include digital I&C systems, nuclear power plant safety systems, heat removal systems, electronics equipment of submarine sonar systems, human cognitive reliability, human factors/ergonomics engineering, and presently, microelectronics design and manufacturing. Among these, the most fascinating is my data analytics experience in the fascinating Eye-tracking based plant operator reliability that I experienced during my postdoc at IITM. The second fascinating experience is in nuclear engineering, where I did a most productive project on computational methods for neutron transport modeling and computations, it is this project that I learned that I have an inherent interest in computation and applied probability which in turn has led me to do Ph.D. in the reliability field. Details about my skills, education, and experiences are as follows.
 
-# Skills
-
-**Skills**
-
-I have skills of performing analysis and problem solving through abstract thinking and python programming.
-
-**Programming and software skills**
-
-(with self assessment scores out-of 10 indicating proficiency or level of experience)
-
-| **Programming techniques** | Object-oriented (5), functional (7), parallelization (5) |
-| Software tools | Python (7), Github (3), MATLAB (7), ISOGRAPH (9), ITEM TOOLKIT (9), GENIE (9), SIMULINK (5), SIMSCAPE (5), OpenMC (7), DRAGON (3), MCNP (3), Latex (9) |
-| Python libraries (7) | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
-| Analysis | Reliability analysis (9), Data analysis (5),  Probabilistic Safety/Risk Assessment and Management (5) |
-
-**Reliability engineering skills**
-
-|	Reliability techniques | Failure rate (10), RBD (10), Fault tree (10), Event tree (10), FMECA (10), Markov modeling (10), Petri nets (7), Bayesian network (7), Maintenance modeling (5),  Approximation method (9), Phased mission modeling (10) |
-|	Reliability standards awareness | DOE-HDBK-1013 (I&C), IEC 61078 (RBD), 60812 (FMEA), 62551 (PN), 60319, 61586, 62308-TR (Electronics), 60300, 61508, 61511 (Functional safety), 61069-5,-7 (Dependability), MIL-STD-217H (Rate), -882E (System safety), NASA-TM-106313 (DfR) |
-| Human reliability | CREAM, ATHEANA, HEART, Observational method-Eye-tracking |
-
-**Other skills**
-
-|	Human factors standards | ANSI/HFES-100 (Workstation), ASTM-E2350 (NEW), ISO-26800 (General), TS 20646 (MSD), 9241-306 (HSI), 6385 (Work system) MIL-STD-1472H (HE), NASA-STD-3000, NUREG-0700,-0711 (MSI) |
-|	Human factors methods | Hierarchical task analysis, Posture analysis, RULA, REBA, ROSA, RAMP, APHIRM |
-
-
-| **Expertise** | 	Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity |
-
-**Research interests and aptitude**
-
-*	Developing Monte Carlo simulation procedures
-*	Developing object-oriented and smart component modelling of realistic systems
-*	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance and resilience
-*	My long-term research interest is probability theory
-
-** Development **
-* Smart Component Method, Python
-
 ***
 
-# Education
+# Work Experience
+
+**Academic Counsellor, Indira Gandhi National Open University**
+
+Rajkot Center, India (July 7, 2023 - now) 
+
+**R&D Project Manager, Monk9Tech Pvt. Ltd.**
+
+Rajkot, India (February 01, 2023 - August 10, 2023)
 
 **Postdoctoral Research**
 
@@ -138,6 +99,44 @@ I have skills of performing analysis and problem solving through abstract thinki
 | Date | May 31, 2007 |
 
 ***
+
+# Skills
+
+I have skills in performing analysis and problem-solving through abstract thinking and Python programming.
+
+**Programming and software skills**
+
+(with self-assessment scores out of 10 indicating proficiency or level of experience)
+
+**Reliability engineering skills**
+
+|	Reliability techniques | Failure rate (10), RBD (10), Fault tree (10), Event tree (10), FMECA (10), Markov modeling (10), Petri nets (7), Bayesian network (7), Maintenance modeling (5),  Approximation method (9), Phased mission modeling (10) |
+|	Reliability standards awareness | DOE-HDBK-1013 (I&C), IEC 61078 (RBD), 60812 (FMEA), 62551 (PN), 60319, 61586, 62308-TR (Electronics), 60300, 61508, 61511 (Functional safety), 61069-5,-7 (Dependability), MIL-STD-217H (Rate), -882E (System safety), NASA-TM-106313 (DfR) |
+| Human reliability | CREAM, ATHEANA, HEART, Observational method-Eye-tracking |
+
+| **Programming techniques** | Object-oriented (5), functional (7), parallelization (5) |
+| Software tools | Python (7), GitHub (5), MATLAB (7), ISOGRAPH (9), ITEM TOOLKIT (9), GENIE (9), SIMULINK (5), SIMSCAPE (5), OpenMC (7), DRAGON (3), MCNP (3), Latex (9) |
+| Python libraries (7) | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
+| Analysis | Reliability analysis (9), Data analysis (5),  Probabilistic Safety/Risk Assessment and Management (5) |
+
+**Other skills**
+
+|	Human factors standards | ANSI/HFES-100 (Workstation), ASTM-E2350 (NEW), ISO-26800 (General), TS 20646 (MSD), 9241-306 (HSI), 6385 (Work system) MIL-STD-1472H (HE), NASA-STD-3000, NUREG-0700,-0711 (MSI) |
+|	Human factors methods | Hierarchical task analysis, Posture analysis, RULA, REBA, ROSA, RAMP, APHIRM |
+
+# Expertise
+Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity
+
+# Research interests and aptitude
+
+*	Developing Monte Carlo simulation procedures
+*	Developing object-oriented and smart component modelling of realistic systems
+*	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance and resilience
+*	My long-term research interest is probability theory
+* Smart Component Method, Python
+
+***
+
 
 # Awards
 
