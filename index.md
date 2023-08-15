@@ -1,4 +1,4 @@
-# Dr. Darpan Krishnakumar Shukla
+# Dr. Darpan Krishnakumar Shukla, M.Tech., DGFS Ph.D.
 
 ***
 
@@ -16,15 +16,19 @@
 
 ***
 
-# Personal summary
+# Summary
+
+***Personal summary***
+
 I have multi-disciplinary educational qualifications with experiences in broad areas. I believe in two aspects of human life. One is work. I work with emotions and interest towards problem solving by learning from scratch, and towards generating results with comprehensive considerations and efficiency. I look for job satisfaction, technicality and simplicity. Second is life. I be a good friend with everyone and be simple. Grateful to teachers. My life goals are continuous development and supramental manifestation.
 
-# Professional summary
+***Professional summary***
+
 I have multi-disciplinary educational qualifications with experiences in broad areas. In the past 8 years, my working area (fundamental and applied) has been around reliability, a branch of applied mathematics or more precisely applied probability. Reliability engineering is a multidisciplinary subject and I have extensive experience in my formal assignments to the multiple disciplinary engineered systems - nuclear energy, defense, and human. In chronological order, my reliability applications include digital I&C systems, nuclear power plant safety systems, heat removal systems, electronics equipment of submarine sonar systems, human cognitive reliability, human factors/ergonomics engineering, and presently, microelectronics design and manufacturing. Among these, the most fascinating is my data analytics experience in the fascinating Eye-tracking based plant operator reliability that I experienced during my postdoc at IITM. The second fascinating experience is in nuclear engineering, where I did a most productive project on computational methods for neutron transport modeling and computations, it is this project that I learned that I have an inherent interest in computation and applied probability which in turn has led me to do Ph.D. in the reliability field. Details about my skills, education, and experiences are as follows.
 
 ***
 
-# Work Experience
+# Experiences
 
 **Academic Counsellor, Indira Gandhi National Open University**
 
@@ -79,7 +83,6 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 | Courses: | Introduction of Nuclear Technology, Nuclear Thermal Hydraulics, Nuclear Reactor Theory, Advanced Numerical Methods and Computer Programming (Theory and practical), Renewable Energy and Energy Management, Radioisotope Applications, Reliability in Nuclear Power Plants, Nuclear Power Plant Engineering, Nuclear Fuel Cycle, Nuclear Plant Operation Dynamics and Control, Radiation Measurement and Radiation Protection (Theory and practical), and Nuclear Safety |
 | Projects | **Utilization of open-source neutron transport codes:** Utilization of open-source neutron transport code such as OpenMC based on MCS and DRAGON based on numerical differentiation technique. <br><br> **Development of a computational tool for criticality computation based on Monte Carlo methods:** I have developed a python program for neutron transport analysis of simple literature bare nuclear systems using Monte Carlo methods. Example study of Godiva and Jezebel. |
 
-
 **Bachelor of Engineering in in Electronics and Communication Engineering**
 
 | Affiliation | Government Engineering College, Rajkot, affiliated to <br><br> Gujarat Technological University, Ahmedabad, Gujarat, INDIA |
@@ -100,47 +103,53 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 
 ***
 
-# Skills
+# Expertise and skills
 
 I have skills in performing analysis and problem-solving through abstract thinking and Python programming.
 
-**Programming and software skills**
-
-(with self-assessment scores out of 10 indicating proficiency or level of experience)
-
 **Reliability engineering skills**
 
-|	Reliability techniques | Failure rate (10), RBD (10), Fault tree (10), Event tree (10), FMECA (10), Markov modeling (10), Petri nets (7), Bayesian network (7), Maintenance modeling (5),  Approximation method (9), Phased mission modeling (10) |
+| Reliability tools      | ISOGRAPH, Reliability Workbench, ITEM TOOLKIT, GENIE |
+|	Reliability techniques | Failure rate, RBD, Fault tree, Event tree, FMECA, Markov modeling, Petri nets, Bayesian network, Maintenance modeling,  Approximation method, Phased mission modeling |
 |	Reliability standards awareness | DOE-HDBK-1013 (I&C), IEC 61078 (RBD), 60812 (FMEA), 62551 (PN), 60319, 61586, 62308-TR (Electronics), 60300, 61508, 61511 (Functional safety), 61069-5,-7 (Dependability), MIL-STD-217H (Rate), -882E (System safety), NASA-TM-106313 (DfR) |
 | Human reliability | CREAM, ATHEANA, HEART, Observational method-Eye-tracking |
-
-| **Programming techniques** | Object-oriented (5), functional (7), parallelization (5) |
-| Software tools | Python (7), GitHub (5), MATLAB (7), ISOGRAPH (9), ITEM TOOLKIT (9), GENIE (9), SIMULINK (5), SIMSCAPE (5), OpenMC (7), DRAGON (3), MCNP (3), Latex (9) |
-| Python libraries (7) | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
-| Analysis | Reliability analysis (9), Data analysis (5),  Probabilistic Safety/Risk Assessment and Management (5) |
-
-**Other skills**
-
 |	Human factors standards | ANSI/HFES-100 (Workstation), ASTM-E2350 (NEW), ISO-26800 (General), TS 20646 (MSD), 9241-306 (HSI), 6385 (Work system) MIL-STD-1472H (HE), NASA-STD-3000, NUREG-0700,-0711 (MSI) |
 |	Human factors methods | Hierarchical task analysis, Posture analysis, RULA, REBA, ROSA, RAMP, APHIRM |
 
-# Expertise
-Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity
+**Programming and software skills**
 
-# Research interests and aptitude
+| Computing techniques | Monte Carlo Simulations, Object-oriented, functional, parallelization, optimization, Bayesian Network, Petri Net |
+| Software tools | Python, MATLAB, Git, GitHub, SIMULINK, SIMSCAPE, OpenMC, DRAGON, MCNP, Latex |
+| Python libraries | Matplotlib, Numpy, Scipy, PyBBN, MACHIATO PN |
+| Analysis | Reliability analysis, Availability analysis, Data analysis, Probabilistic Safety/Risk Assessment and Management |
+
+***
+
+## Expertise
+Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling complexity, Computational complexity,
+Probabilistic Dynamics Simulations
+
+***
+
+## Research interests and aptitude
 
 *	Developing Monte Carlo simulation procedures
 *	Developing object-oriented and smart component modelling of realistic systems
 *	Study and application of the advanced reliability methods to operator decision support, prognostic and health management, maintenance and resilience
-*	My long-term research interest is probability theory
-* Smart Component Method, Python
 
 ***
 
-
 # Awards
 
-**Fellowships, Scholarship, grants and awards**
+## Esteem
+
+I have represented India at an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method.
+<img src = "https://www.iaea.org/sites/default/files/iaea-logo-2021.png" width ="100"> [FR17 Proceeding](https://www-pub.iaea.org/MTCD/Publications/PDF/STIPUB1836web.pdf) 
+
+[Link to download the paper](http://www-pub.iaea.org/MTCD/Publications/PDF/SupplementaryMaterials/STIPUB1836.zip)
+
+
+## Awards
 
   * European Safety and Reliability Association (ESRA) scholarship (one of the two) for Ph.D. students towards RAM & PHM 4.0 workshop, Politecnico Di Milano, Milan, ITALY, 2019
   * CSIR international travel grant, New Delhi, PSA 2019
@@ -154,21 +163,15 @@ Monte Carlo Simulations, Dynamic reliability, Model translations, Modeling compl
 
 ***
 
-# Seminars
+# Technical presentations
+
+## Seminars
 
 *	**Seminar on a smart component methodology for reliability analysis of dynamic systems**, on January 23, 2020, at B38, Lenton Firs, University of Nottingham, UK; on August 29, 2019 at NPCIL, BHAVINI, INDIA, and on August 26, 2019, CDO Lecture Hall, IGCAR, INDIA
 *	**A review of dynamic reliability methods**, Credit seminar I, February 21, 2018, HBNI, IGCAR, INDIA
 *	**Availability analysis of systems with time dependent failure rates using Monte Carlo sampling and numerical techniques**, Credit seminar II, January 09, 2018, HBNI, IGCAR, INDIA
 
-# Esteem
-
-Technical Indian representation to an IAEA (International Atomic Energy Agency) meeting FR17 (Fast Reactor 2017) with a paper on Smart Component Method, presented by Hon. P. Puthiyavinayagam, Group Director, Reactor Design Group, IGCAR, INDIA.
-
-<img src = "https://www.iaea.org/sites/default/files/iaea-logo-2021.png" width ="100"> [FR17 Proceeding](https://www-pub.iaea.org/MTCD/Publications/PDF/STIPUB1836web.pdf) 
-
-[Link to download the paper](http://www-pub.iaea.org/MTCD/Publications/PDF/SupplementaryMaterials/STIPUB1836.zip)
-
-# Conferences
+## Conferences
 - American Nuclear Society (ANS) 16th International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA) 2019, Charleston, SC, USA, during April 28 – May 03, 2019
 - 4th International Conference on Reliability, Safety and Hazard – 2019 (Advances in Risk Based Technology), Chennai, INDIA, during January 10 - 13, 2019
 - International Conference on Fast Reactors and Related Fuel Cycles: Next Generation Nuclear Systems for Sustainable Development (FR17), International Atomic Energy Agency, Yekaterinburg, RUSSIAN FEDERATION, during June 26 - 29, 2017
@@ -188,23 +191,19 @@ Technical Indian representation to an IAEA (International Atomic Energy Agency) 
     *	Organizer of sports tournaments during 2015 - 2022 for Ph.D. scholars, IGCAR
     *	Finance committee, Organizing Committee of Research Scholar’s Meet, May 07 – 09, 2018, IGCAR
     *	Initial, Plectrum Guitar, Trinity College London
-
-
-- DOB: November 18, 1991
 - Languages: 
     * English - Full Professional Proficiency 
     * Hindi - Full Professional Proficiency
     * Gujarati - Native or Billingual Proficiency
-    * Sanskrit - Elementary Proficiency
 - Hobbies:
     * Reading Spiritual Books, Sports, Reviewing History of Mathematics, Probability, Review of literature, Car driving and Travelling, Music, Badminton, Compose poem
 
 ***
-# Contact
+
+# Connect with me @
 
 101, Harikrushna Flats, Opp. - Pramukh Swami Auditorium, Nr. Alap Green City, Raiya Road, Rajkot - 360 007, Gujarat, INDIA
 
-**Connect with me at**
 
 M - +91 940 888 4718
 
