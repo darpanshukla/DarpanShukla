@@ -9,7 +9,7 @@
 [ORCID](https://orcid.org/0000-0001-8208-3206)
 
 <img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "50"> 
-[My Youtube channel](https://youtube.com/@darpanshukla6471)
+[Youtube](https://youtube.com/@darpanshukla6471)
 
 <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width = "50">
 [linkedin.com/in/darpan-shukla-77840199/](https://www.linkedin.com/in/darpan-shukla-77840199/)
