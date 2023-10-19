@@ -30,9 +30,14 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 # Experiences
 
-**Academic Counsellor, Indira Gandhi National Open University**
+**Visiting Assistant Professor, National Institute of Technology Warangal**
+(September 14, 2023 - present)
 
-Rajkot Center, India (July 7, 2023 - now) 
+| Courses | Skills taught |
+| Problem Solving and Computer Programming - 63 students | Problem Solving, c++ |
+| Microprocessors - 78 students | Assembly Language Programming .asm, systems programming, NASM |
+
+**Academic Counsellor, Indira Gandhi National Open University**
 
 **R&D Project Manager, Monk9Tech Pvt. Ltd.**
 
