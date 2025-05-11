@@ -30,6 +30,28 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 # Experiences
 
+**Project Engineer - I (Reliability), Aeronautical Development Agency, Bangalore**
+(August 19, 2024 - present)
+
+* Areas of work:  Software reliability, maintenance free operating period, reliability analysis of Avionics systems using ISOGRAPH – RELIASOFT, 217 Plus, leadership
+*	Math works: Statistical inference, MLE, LSE, NHPP, Binomial-type & Poisson-type SRGMs, Deep Learning, reliability data analysis, mathematization for maintainability
+* Major achievements
+[1]  	Desktop Application development using MATLAB for software reliability analysis, UI design and development from scratch – implemented twelve SRGMs including G-O, J-M, DSS, ISS, Log-logistic, Weibull 
+[2]  	AI/ML Hackathon: Won challenge 3 (predicted strain at Aircraft Fin with least MSE at Aircraft Fin using Deep Learning), Runner-up in challenge 4 (early ice formation detection)
+* Developed four templates for reliability demonstration test plan, maintainability modelling and analysis, common mode analysis (ARP 4761)
+
+
+**Assitant Professor - CSE, St. Andrews Institute of Technology and Management, SAITM, Gurugram, Haryana
+(February 19, 2024 - August 13, 2024)
+
+| Courses | Skills taught |
+| Problem Solving and Computer Programming - 63 students | Problem Solving, C programming |
+
+* Areas of work: Teaching C Programming for Problem Solving course for around 120 students in two classes and conducting of a Project Competition 2024
+*	A laboratory development for “Advanced computational methods development – Quantum Computing applications research”
+*	Delivered an online invited talk on “Reliability of Electronic Components” on 25 Jun 2024 at Madanapalle Institute of Technology, Telangana, IN
+
+
 **Visiting Assistant Professor, National Institute of Technology Warangal**
 (September 14, 2023 - present)
 
@@ -37,11 +59,22 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 | Problem Solving and Computer Programming - 63 students | Problem Solving, c++ |
 | Microprocessors - 78 students | Assembly Language Programming .asm, systems programming, NASM |
 
+* Math works: Graph search – BFS & DFS , memory and I/O interfaces, object-oriented assembly programming, number theory - random number generation
+*	Delivered an online invited talk titled ‘Towards a Quantum Computing application’ at Cardiff Met University, UK
+
+
 **Academic Counsellor, Indira Gandhi National Open University**
 
 **R&D Project Manager, Monk9Tech Pvt. Ltd.**
 
 Rajkot, India (February 01, 2023 - August 10, 2023)
+
+* Areas of work: reliability assurance planning for chip fabrication processes & VLSI design
+*	Completed a course on Nanotechnology on Udemy
+*	Math works: Reliability test plan, CMOS reliability SPICE
+*	VLSI Design and Verification using Verilog and gtkwave, developed the [Repository](https://github.com/darpanshukla/Digital-IC-Design-Development-Training.git)
+
+
 
 **Postdoctoral Research**
 
