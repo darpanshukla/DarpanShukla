@@ -1,4 +1,9 @@
-# Dr. Darpan Krishnakumar Shukla, M.Tech., DGFS Ph.D.
+# Dr. Darpan Krishnakumar Shukla 
+M.Tech. DGFS Ph.D.
+8+ yrs of experience and Ph.D. and POST DOC in Reliability Engineering, 7+ yrs of R&D
+
+# Highlights
+R&D experience of 10+ years, Reliability Engineer (8+ years) and academia (1 year) in software/hardware reliability, AL/ML applications, and quantum computing research. Proven success in R&D projects, and technical education. Seeking challenging roles at the interface of advanced computation and system dependability.
 
 ***
 
