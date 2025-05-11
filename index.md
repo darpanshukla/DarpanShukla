@@ -53,7 +53,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 
 **Visiting Assistant Professor, [National Institute of Technology, Warangal](https://www.nitw.ac.in/)**
-(September 14, 2023 - present)
+(September 14, 2023 - December 31, 2024)
 
 | Courses | Skills taught |
 | Problem Solving and Computer Programming - 63 students | Problem Solving, c++ |
@@ -77,13 +77,14 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 
 
 **Postdoctoral Research, [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)**
+( January 02, 2022 - January 03, 2023)
 
 | Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
-| Duration | January 3, 2022 - current |
 | Project title | Evaluating and enhancing the overall reliability of submarine sonar system using RBD, FMECA and Eye-tracking |
 | Advisor | Prof. Rajagopalan Srinivasan, Prof. Babji Srinivasan |
 | Work description: | In this position, I carried out exploratory research and submitted reports on the following subjects. |
 
+* Areas of work: Human reliability analysis using Eye-Tracking and electronics reliability prediction: ITEM TOOLKIT
 *	Study of psychosocial ergonomics evaluation methods, December 22, 2022
 *	Checkpoints for physical ergonomics evaluation (ANSI/HFES 100), November 10, 2022
 *	Ergonomics evaluation case studies of TEM operation and office work using RULA, ROSA and RAMP, October 10, 2022
