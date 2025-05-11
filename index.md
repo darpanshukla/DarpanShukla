@@ -30,7 +30,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 # Experiences
 
-**Project Engineer - I (Reliability), Aeronautical Development Agency, Bangalore**
+**Project Engineer - I (Reliability), [Aeronautical Development Agency, Bangalore](https://www.ada.gov.in/)**
 (August 19, 2024 - present)
 
 * Areas of work:  Software reliability, maintenance free operating period, reliability analysis of Avionics systems using ISOGRAPH – RELIASOFT, 217 Plus, leadership
@@ -41,7 +41,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 * Developed four templates for reliability demonstration test plan, maintainability modelling and analysis, common mode analysis (ARP 4761)
 
 
-**Assitant Professor - CSE, St. Andrews Institute of Technology and Management, SAITM, Gurugram, Haryana
+**Assitant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM](https://saitm.ac.in/), Gurugram, Haryana
 (February 19, 2024 - August 13, 2024)
 
 | Courses | Skills taught |
