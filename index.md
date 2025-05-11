@@ -97,7 +97,7 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 *	Use of MIL-STD-217, RBD, FMECA modules in ITEM TOOLKIT, January 31, 2022
 
 
-**Doctor of Philosophy in Engineering, [DGFS Ph.D.](https://www.barc.gov.in/careers/ddfs.html) **
+**[DDFS Ph.D. in Engineering](https://www.barc.gov.in/careers/ddfs.html)**
 
 | Affiliation | [Homi Bhabha National Institute (HBNI), Mumbai](http://www.hbni.ac.in/), INDIA, [Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam](https://www.igcar.gov.in/), Tamil Nadu, INDIA |
 | Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
