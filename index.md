@@ -99,6 +99,7 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 
 
 **[DDFS Ph.D. in Engineering](https://www.barc.gov.in/careers/ddfs.html)**
+(August 03, 2015 - December 31, 2021)
 
 | Affiliation | [Homi Bhabha National Institute (HBNI), Mumbai](http://www.hbni.ac.in/), INDIA, [Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam](https://www.igcar.gov.in/), Tamil Nadu, INDIA |
 | Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
