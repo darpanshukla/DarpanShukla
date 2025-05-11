@@ -41,7 +41,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 * Developed four templates for reliability demonstration test plan, maintainability modelling and analysis, common mode analysis (ARP 4761)
 
 
-**Assitant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM](https://saitm.ac.in/), Gurugram, Haryana
+**Assitant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM, Gurugram](https://saitm.ac.in/), Haryana**
 (February 19, 2024 - August 13, 2024)
 
 | Courses | Skills taught |
