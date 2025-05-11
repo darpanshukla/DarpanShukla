@@ -52,7 +52,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 *	Delivered an online invited talk on “Reliability of Electronic Components” on 25 Jun 2024 at Madanapalle Institute of Technology, Telangana, IN
 
 
-**Visiting Assistant Professor, National Institute of Technology Warangal**
+**Visiting Assistant Professor, [National Institute of Technology, Warangal](https://www.nitw.ac.in/)**
 (September 14, 2023 - present)
 
 | Courses | Skills taught |
@@ -76,7 +76,7 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 
 
 
-**Postdoctoral Research**
+**Postdoctoral Research, [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)**
 
 | Employer | Industrial Consultancy and Scientific Research, Indian Institute of Technology, Madras |
 | Duration | January 3, 2022 - current |
@@ -97,9 +97,9 @@ Rajkot, India (February 01, 2023 - August 10, 2023)
 *	Use of MIL-STD-217, RBD, FMECA modules in ITEM TOOLKIT, January 31, 2022
 
 
-**Doctor of Philosophy in Engineering**
+**Doctor of Philosophy in Engineering, [DGFS Ph.D.](https://www.barc.gov.in/careers/ddfs.html) **
 
-| Affiliation | Homi Bhabha National Institute (HBNI), Mumbai, INDIA, Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, Tamil Nadu, INDIA |
+| Affiliation | [Homi Bhabha National Institute (HBNI), Mumbai](http://www.hbni.ac.in/), INDIA, [Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam](https://www.igcar.gov.in/), Tamil Nadu, INDIA |
 | Position I | Junior Research Fellow (Nuclear Engineering) during August 03, 2015 - October 05, 2016 |
 | Position II | DAE's Graduate Fellow (Nuclear) during October 14, 2016 - December 31, 2021 |
 | Ph.D enrolment | August 01, 2016 |
