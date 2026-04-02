@@ -29,7 +29,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 ***Professional summary***
 
-I have multi-disciplinary educational qualifications with experiences in broad areas. In the past 8 years, my working area (fundamental and applied) has been around reliability, a branch of applied mathematics or more precisely applied probability. Reliability engineering is a multidisciplinary subject and I have extensive experience in my formal assignments to the multiple disciplinary engineered systems - nuclear energy, defense, and human. In chronological order, my reliability applications include digital I&C systems, nuclear power plant safety systems, heat removal systems, electronics equipment of submarine sonar systems, human cognitive reliability, human factors/ergonomics engineering, and presently, microelectronics design and manufacturing. Among these, the most fascinating is my data analytics experience in the fascinating Eye-tracking based plant operator reliability that I experienced during my postdoc at IITM. The second fascinating experience is in nuclear engineering, where I did a most productive project on computational methods for neutron transport modeling and computations, it is this project that I learned that I have an inherent interest in computation and applied probability which in turn has led me to do Ph.D. in the reliability field. Details about my skills, education, and experiences are as follows.
+I have multi-disciplinary educational qualifications with experiences in broad areas. In the past 10 years, my working areas include fundamental and applied ares in reliability engineering. I have extensive experience in my formal assignments to the multiple disciplinary engineered systems - nuclear energy, defense, and human. In chronological order, my reliability applications include digital I&C systems, nuclear power plant safety systems, heat removal systems, electronics equipment of submarine sonar systems, human cognitive reliability, human factors/ergonomics engineering, and presently, microelectronics design and manufacturing. Among these, the most fascinating is my data analytics experience in the fascinating Eye-tracking based plant operator reliability that I experienced during my postdoc at IITM. The second fascinating experience is in nuclear engineering, where I did a most productive project on computational methods for neutron transport modeling and computations, it is this project that I learned that I have an inherent interest in computation and applied probability which in turn has led me to do Ph.D. in the reliability field. Details about my skills, education, and experiences are as follows.
 
 ***
 
@@ -43,7 +43,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 * Major achievements
 [1]  	Desktop Application development using MATLAB for software reliability analysis, UI design and development from scratch – implemented twelve SRGMs including G-O, J-M, DSS, ISS, Log-logistic, Weibull 
 [2]  	AI/ML Hackathon: Won challenge 3 (predicted strain at Aircraft Fin with least MSE at Aircraft Fin using Deep Learning), Runner-up in challenge 4 (early ice formation detection)
-* Developed four templates for reliability demonstration test plan, maintainability modelling and analysis, common mode analysis (ARP 4761)
+[3] Publication of an article on Design for MFOP (Maintenance-Free Operating Period) 
 
 
 **Assitant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM, Gurugram](https://saitm.ac.in/), Haryana**
