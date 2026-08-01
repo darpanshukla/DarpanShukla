@@ -11,7 +11,7 @@
 
 ***
 
-<img src="[http://www.hbni.ac.in/images2/header_logo.png]/220px-Homi_Bhabha_National_Institute_logo.png" width = "50">
+<img src="http://www.hbni.ac.in/images2/header_logo.png" width = "50">
 [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 
 <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "50">
