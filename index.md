@@ -1,13 +1,17 @@
 # Dr. Darpan Krishnakumar Shukla 
-M.Tech. DGFS Ph.D.
-Professional, researcher and problem-solving in Reliability Engineering
+## M.Tech. DGFS Ph.D.
+## Specialization in Reliability Engineering
 
 # Highlights
-R&D experience of 10+ years, Reliability Engineer (8+ years) and academia (1 year) in software/hardware reliability, AL/ML applications, and quantum computing research. Proven success in R&D projects, and technical education. Seeking challenging roles at the interface of advanced computation and system dependability.
+
+* R&D experiences: 10+ years in Reliability Engineer
+* Teaching experiences: two semesters (1 year)
+* Research aptitude: Dynamic reliability analysis, software reliability assessments, hardware reliability, flight data analysis, predictive maintenance, resilience engineering,
+* Programming skills: MATLAB programming - UI Development, Python Programming and packages
 
 ***
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Homi_Bhabha_National_Institute_logo.png/220px-Homi_Bhabha_National_Institute_logo.png" width = "50">
+<img src="[http://www.hbni.ac.in/images2/header_logo.png]/220px-Homi_Bhabha_National_Institute_logo.png" width = "50">
 [Ph.D. Thesis Download](http://www.hbni.ac.in/phdthesis/engg/ENGG02201604002.pdf)
 
 <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "50">
@@ -35,13 +39,13 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 # Work Experiences
 
-**Project Engineer - I (Reliability), [Aeronautical Development Agency, Bangalore](https://www.ada.gov.in/)**
+**Project Scientist + Project Engineer - I (Reliability), [Aeronautical Development Agency, Bangalore](https://www.ada.gov.in/)**
 (August 19, 2024 - present)
 
-* Areas of work:  Software reliability, maintenance free operating period, reliability analysis of Avionics systems using ISOGRAPH – RELIASOFT, 217 Plus, leadership
-*	Math works: Statistical inference, MLE, LSE, NHPP, Binomial-type & Poisson-type SRGMs, Deep Learning, reliability data analysis, mathematization for maintainability
+* Areas of work:  Software reliability, maintenance-free operating period (MFOP), reliability analysis of Avionics systems using ISOGRAPH – RELIASOFT, 217 Plus, leadership
+*	Math works: Statistical inference, MLE, LSE, NHPP, Binomial-type & Poisson-type SRGMs, Deep Learning, reliability data analysis, mathematization for maintainability, MFOP-Based Operation and Maintenance Model, flight data analysis, remaining useful life estimation
 * Major achievements
-[1]  	Desktop Application development using MATLAB for software reliability analysis, UI design and development from scratch – implemented twelve SRGMs including G-O, J-M, DSS, ISS, Log-logistic, Weibull 
+[1]  	Desktop Application development using MATLAB for software reliability analysis, UI design and development from scratch – implemented twelve SRGMs, including G-O, J-M, DSS, ISS, Log-logistic, Weibull 
 [2]  	AI/ML Hackathon: Won challenge 3 (predicted strain at Aircraft Fin with least MSE at Aircraft Fin using Deep Learning), Runner-up in challenge 4 (early ice formation detection)
 [3] Publication of an article on Design for MFOP (Maintenance-Free Operating Period) 
 
