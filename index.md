@@ -5,7 +5,7 @@
 # Highlights
 
 * R&D experiences: 10+ years in Reliability Engineer
-* Teaching experiences: two semesters (1 year)
+* Teaching experiences: two semesters - Problem Solving using Computer Programming (C, c++), Microprocessors and Interfacing
 * Research aptitude: Dynamic reliability analysis, software reliability assessments, hardware reliability, flight data analysis, predictive maintenance, resilience engineering,
 * Programming skills: MATLAB programming - UI Development, Python Programming and packages
 
@@ -17,23 +17,35 @@
 <img src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" width = "50">
 [See my ORCID profile](https://orcid.org/0000-0001-8208-3206)
 
-<img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "50"> 
-[Go to my Youtube Channel](https://youtube.com/@darpanshukla6471)
-
 <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width = "50">
 [https://www.linkedin.com/in/darpan-shukla](www.linkedin.com/in/darpan-shukla)
 
+<img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w240-h480-rw" width = "50"> 
+[Go to my Youtube Channel](https://youtube.com/@darpanshukla6471)
+
 ***
 
-# Personnnel Summary
+## Professional Summary
 
-***Personal summary***
+I am a multidisciplinary engineer and researcher with academic qualifications and professional experience spanning reliability engineering, nuclear engineering, defense systems, human factors, data analytics, and microelectronics. Over the past decade, my work has encompassed both fundamental and applied aspects of reliability engineering across complex, multidisciplinary systems.
 
-I have multi-disciplinary educational qualifications with experiences in broad areas. I believe in two aspects of human life. One is work. I work with emotions and interest towards problem solving by learning from scratch, and towards generating results with comprehensive considerations and efficiency. I look for job satisfaction, technicality and simplicity. Second is life. I be a good friend with everyone and be simple. Grateful to teachers. My life goals are continuous development and supramental manifestation.
+My professional journey has provided me with experience in a diverse range of applications, including digital Instrumentation & Control (I&C) systems, nuclear power plant safety systems, heat removal systems, electronic equipment for submarine sonar systems, human cognitive reliability, human factors and ergonomics engineering, microelectronics design and manufacturing, and, presently, Aeronautical and Defense Systems - Avionics, Predictive Maintenance, and Reliability Statistics.
 
-***Professional summary***
+One of my most distinctive experiences was my postdoctoral research at IIT Madras, where I worked on **eye-tracking-based human reliability assessment of plant operators**. This work brought together reliability engineering, human factors, experimental data, and data analytics, and strengthened my interest in understanding and quantifying human performance through computational approaches.
 
-I have multi-disciplinary educational qualifications with experiences in broad areas. In the past 10 years, my working areas include fundamental and applied ares in reliability engineering. I have extensive experience in my formal assignments to the multiple disciplinary engineered systems - nuclear energy, defense, and human. In chronological order, my reliability applications include digital I&C systems, nuclear power plant safety systems, heat removal systems, electronics equipment of submarine sonar systems, human cognitive reliability, human factors/ergonomics engineering, and presently, microelectronics design and manufacturing. Among these, the most fascinating is my data analytics experience in the fascinating Eye-tracking based plant operator reliability that I experienced during my postdoc at IITM. The second fascinating experience is in nuclear engineering, where I did a most productive project on computational methods for neutron transport modeling and computations, it is this project that I learned that I have an inherent interest in computation and applied probability which in turn has led me to do Ph.D. in the reliability field. Details about my skills, education, and experiences are as follows.
+Another formative experience was my work in nuclear engineering on **computational methods for neutron transport modeling and analysis**. This project introduced me deeply to computational problem-solving and applied probability and helped me recognize my inherent interest in developing computational methods for complex engineering problems. This realization eventually motivated my doctoral research in reliability engineering, in which I explored advanced computational approaches to the reliability analysis of digital I&C systems.
+
+Today, my interests lie at the intersection of **reliability engineering, advanced computational methods, data analytics, artificial intelligence, probabilistic modeling, digital twins, and microelectronics**. I am particularly interested in solving complex engineering problems by combining fundamental understanding with computational thinking, rigorous analysis, and practical implementation.
+
+## Personal Philosophy
+
+I view life through two complementary dimensions: **work and life**.
+
+In my professional work, I value curiosity, emotional involvement, continuous learning, and meaningful problem-solving. I enjoy learning subjects from first principles, developing a thorough understanding of problems, and transforming that understanding into efficient and useful results. I seek work that offers technical depth, intellectual satisfaction, simplicity in thought and implementation, and opportunities for continuous growth.
+
+In life, I value simplicity, friendship, gratitude, and continuous self-development. I consider myself approachable and believe in maintaining good relationships with people. I remain deeply grateful to my teachers and mentors, whose guidance has shaped both my professional and personal development.
+
+My broader life aspiration is **continuous development and the progressive manifestation of higher human potential**.
 
 ***
 
@@ -44,13 +56,14 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 
 * Areas of work:  Software reliability, maintenance-free operating period (MFOP), reliability analysis of Avionics systems using ISOGRAPH – RELIASOFT, 217 Plus, leadership
 *	Math works: Statistical inference, MLE, LSE, NHPP, Binomial-type & Poisson-type SRGMs, Deep Learning, reliability data analysis, mathematization for maintainability, MFOP-Based Operation and Maintenance Model, flight data analysis, remaining useful life estimation
+*	Participation in CEP Course on "Environmental Testing in Aerospace and Defence Systems, Fundamentals, Standards and Emerging Trends"
 * Major achievements
 [1]  	Desktop Application development using MATLAB for software reliability analysis, UI design and development from scratch – implemented twelve SRGMs, including G-O, J-M, DSS, ISS, Log-logistic, Weibull 
 [2]  	AI/ML Hackathon: Won challenge 3 (predicted strain at Aircraft Fin with least MSE at Aircraft Fin using Deep Learning), Runner-up in challenge 4 (early ice formation detection)
-[3] Publication of an article on Design for MFOP (Maintenance-Free Operating Period) 
+[3] Publication: Design for MFOP (Maintenance-Free Operating Period) 
 
 
-**Assitant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM, Gurugram](https://saitm.ac.in/), Haryana**
+**Assistant Professor - CSE, [St. Andrews Institute of Technology and Management, SAITM, Gurugram](https://saitm.ac.in/), Haryana**
 (February 19, 2024 - August 13, 2024)
 
 | Courses | Skills taught |
@@ -72,7 +85,7 @@ I have multi-disciplinary educational qualifications with experiences in broad a
 *	Delivered an online invited talk titled ‘Towards a Quantum Computing application’ at Cardiff Met University, UK
 
 
-**Academic Counsellor, Indira Gandhi National Open University**
+**Academic Counselor, Indira Gandhi National Open University**
 
 **R&D Project Manager, Monk9Tech Pvt. Ltd.**
 
